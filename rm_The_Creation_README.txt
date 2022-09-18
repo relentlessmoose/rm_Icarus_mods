@@ -1,5 +1,5 @@
-NO extra talent points.
-NO extra levels.
+NO additional/extra/unwanted talent points.
+NO additional/extra/unwanted levels.
 True Character Level displayed
 35 Slot Dropship
 Pre-filled O2/H2O tanks, contains 8000
