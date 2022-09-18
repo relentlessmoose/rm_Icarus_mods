@@ -1,5 +1,5 @@
-NO additional/extra/unwanted talent points.
-NO additional/extra/unwanted levels.
+Vanilla Talent/Blueprint point gain
+Vanilla Level progression
 True Character Level displayed
 35 Slot Dropship
 Pre-filled O2/H2O tanks, contains 8000
