@@ -1,5 +1,5 @@
-Vanilla Talent/Blueprint point gain
-Vanilla Level progression
+Unmodified Talent/Blueprint point gain
+Unmodified Level progression
 True Character Level displayed
 35 Slot Dropship
 Pre-filled O2/H2O tanks, contains 8000
@@ -23,6 +23,7 @@ Workshop Armor / Tools buffed
 All Armor attachment slots
 Modules enhanced
 Workshop Crossbows buffed and balanced
+Saddle inventory, speed, and stamina changes
 Minor text fixes
 *Spirit Walk:
 6 possible Exotic Veins from 24 locations, 300-600 each
