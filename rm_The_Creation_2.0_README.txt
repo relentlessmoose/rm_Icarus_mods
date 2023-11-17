@@ -8,7 +8,7 @@ Some recipes tweaks
 Heat / Cold / Pneumonia debuff delay doubled
 NOT REDONE YET Some debuffs more punishing
 NOT REDONE YET Styx creatures on Olympus
-NOT REDONE YET Increased large game spawn limits
+Increased large game spawn limits
 Platinum / Titanium chance to yield Exotics
 MAY BE INACCURATE Electric Extractor / Radar +50% speed
 MAY BE INACCURATE Workshop Extractor / Radar +75% speed
