@@ -10,8 +10,8 @@ NOT REDONE YET Some debuffs more punishing
 NOT REDONE YET Styx creatures on Olympus
 NOT REDONE YET Increased large game spawn limits
 Platinum / Titanium chance to yield Exotics
-Electric Extractor / Radar +50% speed
-Workshop Extractor / Radar +75% speed
+MAY BE INACCURATE Electric Extractor / Radar +50% speed
+MAY BE INACCURATE Workshop Extractor / Radar +75% speed
 Workshop Biofuel contains 20000
 IC-001 contains 90000 power
 Biofuel Generator provides 20000
@@ -32,3 +32,5 @@ Minor text fixes
 8 veins, all vein possible, 400-600 each
 *All Prometheus:
 All veins, 400-600 each.
+
+Please feel free to @ me in the modding Discord if you find something not listed or incorrect.
