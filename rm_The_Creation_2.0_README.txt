@@ -27,10 +27,10 @@ Workshop Crossbows buffed and balanced
 Saddle inventory, speed, and stamina changes
 Minor text fixes
 *Spirit Walk:
-6 possible Exotic Veins from 24 locations, 300-600 each
+6 possible Exotic Veins from 24 locations, 300-600 each vein
 *Headlong:
-8 veins, all vein possible, 400-600 each
+8 veins, all vein possible, 400-600 each vein
 *All Prometheus:
-All veins, 400-600 each.
+5 to 7 veins, all veins possible, 400-600 exotics each vein, 400-800 red exotics each vein.
 
 Please feel free to @ me in the modding Discord if you find something not listed or incorrect.
