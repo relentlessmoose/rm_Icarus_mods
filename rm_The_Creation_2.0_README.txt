@@ -16,7 +16,7 @@ Workshop Biofuel contains 20000
 IC-001 contains 90000 power
 Biofuel Generator provides 20000
 Solar Panel provides 15000
-Wing Turbine provides 3500
+Wind Turbine provides 3500
 Workshop Arrows 100x bundles
 Workshop Repair Kits 10x
 Workshop Tool attachment slots
