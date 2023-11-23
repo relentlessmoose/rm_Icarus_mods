@@ -8,7 +8,7 @@ Increased Stack sizes
 Some recipes tweaks
 Heat / Cold / Pneumonia debuff delay doubled
 NOT REDONE YET Some debuffs more punishing
-NOT REDONE YET Styx creatures on Olympus
+Styx creatures on Olympus
 Increased large game spawn limits
 Platinum / Titanium chance to yield Exotics
 Red Exotics Harvester +50% speed
