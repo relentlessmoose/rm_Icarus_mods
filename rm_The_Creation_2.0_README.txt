@@ -27,8 +27,9 @@ Modules enhanced
 Workshop Crossbows buffed and balanced
 Saddle inventory, speed, and stamina changes
 Red Exotics weight lowered slightly
-
 Minor text fixes
+
+PROSPECTS CHANGES:
 *Spirit Walk:
 6 possible Exotic Veins from 24 locations, 300-600 each vein
 *Headlong:
