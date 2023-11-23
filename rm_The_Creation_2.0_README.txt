@@ -23,6 +23,7 @@ Workshop Repair Kits 10x
 Workshop Tool attachment slots
 Workshop Armor / Tools buffed
 All Armor attachment slots
+Larkwell / Inaris Tool attachment slots
 Modules enhanced
 Workshop Crossbows buffed and balanced
 Saddle inventory, speed, and stamina changes
