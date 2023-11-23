@@ -11,7 +11,7 @@ NOT REDONE YET Some debuffs more punishing
 NOT REDONE YET Styx creatures on Olympus
 Increased large game spawn limits
 Platinum / Titanium chance to yield Exotics
-Red Exotics Extractor +50% speed
+Red Exotics Harvester +50% speed
 Workshop Extractor / Radar +50% speed
 Workshop Biofuel contains 20000
 IC-001 contains 90000 power
