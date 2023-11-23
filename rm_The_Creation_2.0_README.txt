@@ -1,3 +1,4 @@
+INCOMPLETE LIST
 Unmodified Talent/Blueprint point gain
 Unmodified Level progression
 True Character Level displayed
@@ -10,8 +11,8 @@ NOT REDONE YET Some debuffs more punishing
 NOT REDONE YET Styx creatures on Olympus
 Increased large game spawn limits
 Platinum / Titanium chance to yield Exotics
-MAY BE INACCURATE Electric Extractor / Radar +50% speed
-MAY BE INACCURATE Workshop Extractor / Radar +75% speed
+Red Exotics Extractor +50% speed
+Workshop Extractor / Radar +50% speed
 Workshop Biofuel contains 20000
 IC-001 contains 90000 power
 Biofuel Generator provides 20000
@@ -25,6 +26,8 @@ All Armor attachment slots
 Modules enhanced
 Workshop Crossbows buffed and balanced
 Saddle inventory, speed, and stamina changes
+Red Exotics weight lowered slightly
+
 Minor text fixes
 *Spirit Walk:
 6 possible Exotic Veins from 24 locations, 300-600 each vein
