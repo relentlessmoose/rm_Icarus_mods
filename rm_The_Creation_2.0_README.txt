@@ -37,10 +37,13 @@ PROSPECTS CHANGES:
 Olympus: Spirit Walk (Exotic Farm)
 6 to 8 possible Exotic Veins from 24 locations, 300-600 each vein
 Styx: Headlong (Exotic Farm)
-6 to 8 veins, all vein possible, 400-600 each vein
+6 to 8 veins, all vein locations possible, 400-600 each vein
 All Prometheus Missions: (Exotics Farm)
-6 to 8 veins, all veins possible, 400-600 exotics each vein, 400-800 red exotics each vein.
-All Open Worlds: 6 to 8 veins, all veins possible, 400-600 exotics each vein, 400-800 red exotics each vein.
+6 to 8 veins, all vein locations possible, 400-600 exotics each vein, 400-800 red exotics each vein.
+
+OPEN WORLDS:
+Olympus Open World: 6 to 8 veins, 24 possible locations, 300-600 each vein
+Styx & Prometheus Open Worlds: 6 to 8 veins, all vein locations possible, 400-600 exotics each vein, 400-800 red exotics each vein.
 
 Please feel free to @ me in the modding Discord if you find something not listed or incorrect, or if you would like something separated out.
 Eventually I will segregate each change so as to allow customizing your experience using my creations.
