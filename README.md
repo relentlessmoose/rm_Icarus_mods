@@ -1,8 +1,11 @@
+Spawn additons, stack sizes, attachment slots, modifiers, trackers, and more.
+Aiming for balance in most things I edit.
+
 At some point I'll record every change made and note them here.
 
 A mix of QoL mods and difficulty increasing mods. Always looking for new ideas.
 
-The Creation is my all-in-one. https://github.com/relentlessmoose/rm_Icarus_mods/blob/main/rm_The_Creation_3.0_P.pak
+[Total Moose Experience](https://github.com/relentlessmoose/rm_Icarus_mods/blob/main/rm_Total_Moose_Experience_P.pak) is my all-in-one.
 
 Suggestions and requests welcome.
 @relentlessmoose in the Linkarus Discord.
