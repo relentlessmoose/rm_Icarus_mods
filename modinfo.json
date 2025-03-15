@@ -1,0 +1,145 @@
+{
+	"mods": [
+		{
+			"name": "Total Moose Experience",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Contains all of my mods into one mod.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
+			},
+			"readmeURL": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/README.md"
+		},
+		{
+			"name": "rm_Angry_Moose",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Mixes in creatures from both Styx & Prometheus into Olympus, and Prometheus creatures into Styx.  A few workshop animals thrown in as well.  Added Exotic Infused creatures.  Spawn balances, additions, and MORE balances.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
+			}
+		},
+		{
+			"name": "rm_Bulk_Recipes_P",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Adds bulk recipes for many processor recipes and more.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
+			}
+		},
+		{
+			"name": "rm_Caveworm_Exotics",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Adds 10% for Caveworms to drop a low amount of Exotics.  This is NOT meant to be any sort of farm.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Caveworm_Exotics_P.pak"
+			}
+		},
+		{
+			"name": "rm_Exotics_Farm",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Olympus: 6 to 8 veins, all veins locations possible, 300-600 each vein.  Styx & Prometheus: 6 to 8 veins, all vein locations possible, 400-600 exotics each vein, 400-800 red exotics each vein.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Exotics_Farm_P.pak"
+			}
+		},
+		{
+			"name": "rm_Feast_P",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Slight increases on select timers/buffs from consumables.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Feast_P.pak"
+			}
+		},
+		{
+			"name": "rm_Meta_Attachment",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Now including Fillable modifications.  Adds attachments to workshop armor, and some tools/weapons.  Adds station repair option to some items.  Allows workshop power source to recharge via Charging Station.  TESTING: Return to orbit.  Minor oxygen and canteen capacity increases.  Some battery powered tool capacity increases.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachment_P.pak"
+			}
+		},
+		{
+			"name": "rm_Moar_Power",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Wind Turbine output: 2250.   Solar Panel output: 8000.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
+			}
+		},
+		{
+			"name": "rm_Modifiers",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
+			}
+		},
+		{
+			"name": "rm_No_Ore_Left_Behind",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
+			}
+		},
+		{
+			"name": "rm_Shifting_Winds",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
+			}
+		},
+		{
+			"name": "rm_Stack_Sizes",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Many improved stack sizes over vanilla.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
+			}
+		},
+		{
+			"name": "rm_Tracker",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "*Now counting how many Bees you collect*.  For those who want to know how many Dracs they've killed.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: <Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
+			}
+		},
+		{
+			"name": "rm_True_Level",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w171",
+			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level, allowing more talent points.  DOES NOT add Prospector talent points.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
+			}
+		}
+	]
+}
