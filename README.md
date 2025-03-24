@@ -1,3 +1,4 @@
+*Check back often for frequent updates, not just weekly*
 A mix of QoL mods and difficulty increasing mods.  
 Spawn additions, weather additions, stack sizes, attachment slots, modifiers, trackers, and more.  
 Aiming for balance in most things I edit.  
