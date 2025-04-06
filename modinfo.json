@@ -45,7 +45,7 @@
 			"name": "rm_Exotics_Farm",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w171",
+			"compatibility": "w174",
 			"description": "Olympus: 6 to 8 veins, all veins locations possible, 300-600 each vein.  Styx & Prometheus: 6 to 8 veins, all vein locations possible, 400-600 exotics each vein, 400-800 red exotics each vein.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Exotics_Farm_P.pak"
