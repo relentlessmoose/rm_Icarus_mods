@@ -65,7 +65,7 @@
 			"name": "rm_Meta_Attachment",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w171",
+			"compatibility": "w174",
 			"description": "Now including Fillable modifications.  Adds attachments to workshop armor, and some tools/weapons.  Adds station repair option to some items.  Allows workshop power source to recharge via Charging Station.  TESTING: Return to orbit.  Minor oxygen and canteen capacity increases.  Some battery powered tool capacity increases.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachment_P.pak"
