@@ -4,7 +4,7 @@
 			"name": "Total Moose Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w171",
+			"compatibility": "w174",
 			"description": "Contains all of my mods into one mod.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
