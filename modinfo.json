@@ -95,7 +95,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w171",
+			"compatibility": "w174",
 			"description": "Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
