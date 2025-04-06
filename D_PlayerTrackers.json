@@ -1,0 +1,2501 @@
+{
+    "RowStruct": "/Script/Icarus.PlayerTracker",
+    "Defaults": {
+        "DisplayName": "",
+        "Description": "",
+        "TrackerCategory": {
+            "RowName": "None",
+            "DataTableName": "D_PlayerTrackerCategories"
+        },
+        "TagsToTrack": [],
+        "TagRequirement": "HasAnyTags",
+        "SteamStatId": "None",
+        "SetType": "Overwrite"
+    },
+    "Rows": [
+        {
+            "Name": "LevelReached",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LevelReached-DisplayName\", \"Player Level\")",
+            "SteamStatId": "LevelReached"
+        },
+        {
+            "Name": "MIssionsCompleted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MIssionsCompleted-DisplayName\", \"Missions Completed\")"
+        },
+        {
+            "Name": "CreatureKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CreatureKills-DisplayName\", \"Creatures Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC"
+                }
+            ]
+        },
+        {
+            "Name": "KeaKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"KeaKills-DisplayName\", \"Kea Birds Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Kea"
+                }
+            ]
+        },
+        {
+            "Name": "RoatKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RoatKills-DisplayName\", \"Roats Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Roat"
+                }
+            ]
+        },
+        {
+            "Name": "HyenaKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"HyenaKills-DisplayName\", \"Hyena Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Hyena"
+                }
+            ]
+        },
+        {
+            "Name": "StrikerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StrikerKills-DisplayName\", \"Striker Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Striker"
+                }
+            ]
+        },
+        {
+            "Name": "BabyCreatureKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BabyCreatureKills-DisplayName\", \"Baby Creatures Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.BabyDeer"
+                },
+                {
+                    "TagName": "NPC.Juvenile"
+                }
+            ]
+        },
+        {
+            "Name": "DeerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DeerKills-DisplayName\", \"Deer Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Deer"
+                },
+                {
+                    "TagName": "NPC.LargeDeer"
+                },
+                {
+                    "TagName": "NPC.MediumDeer"
+                }
+            ]
+        },
+        {
+            "Name": "PlainsEquixKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PlainsEquixKills-DisplayName\", \"Plains Equix Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.DeerVarient"
+                }
+            ]
+        },
+        {
+            "Name": "BabyDeerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BabyDeerKills-DisplayName\", \"Baby Deer Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.BabyDeer"
+                }
+            ]
+        },
+        {
+            "Name": "GoatKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"GoatKills-DisplayName\", \"Goat Kills\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Goat"
+                }
+            ]
+        },
+        {
+            "Name": "WolfKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"WolfKills-DisplayName\", \"Wolves Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Wolf"
+                }
+            ]
+        },
+        {
+            "Name": "BearKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BearKills-DisplayName\", \"Bears Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Bear"
+                }
+            ]
+        },
+        {
+            "Name": "BearCubKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BearCubKills-DisplayName\", \"Bear Cubs Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.BearCub"
+                }
+            ]
+        },
+        {
+            "Name": "ChamoisKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ChamoisKills-DisplayName\", \"Chamois Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Chamois"
+                }
+            ]
+        },
+        {
+            "Name": "ElephantKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ElephantKills-DisplayName\", \"Elephants Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Elephant"
+                }
+            ]
+        },
+        {
+            "Name": "PolarBearKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PolarBearKills-DisplayName\", \"Polar Bears Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.PolarBear"
+                }
+            ]
+        },
+        {
+            "Name": "LionKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LionKills-DisplayName\", \"Lions Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Lion"
+                }
+            ]
+        },
+        {
+            "Name": "MammothKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MammothKills-DisplayName\", \"Mammoths Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Mammoth"
+                }
+            ]
+        },
+        {
+            "Name": "RabbitKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RabbitKills-DisplayName\", \"Rabbits Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Rabbit"
+                }
+            ]
+        },
+        {
+            "Name": "JaguarKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JaguarKills-DisplayName\", \"Jaguars Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Jaguar"
+                }
+            ]
+        },
+        {
+            "Name": "RaccoonKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RaccoonKills-DisplayName\", \"Raccoons Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Racoon"
+                }
+            ]
+        },
+        {
+            "Name": "WulvKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"WulvKills-DisplayName\", \"Wulvs Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Wulv"
+                }
+            ]
+        },
+        {
+            "Name": "SpiderKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SpiderKills-DisplayName\", \"Spiders Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Spider"
+                }
+            ]
+        },
+        {
+            "Name": "LeopardKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LeopardKills-DisplayName\", \"Leopards Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.SnowLeopard"
+                }
+            ]
+        },
+        {
+            "Name": "BuffaloKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BuffaloKills-DisplayName\", \"Buffalos Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Buffalo"
+                },
+                {
+                    "TagName": "NPC.Juvenile.Buffalo"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileBuffaloKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileBuffaloKills-DisplayName\", \"Juvenile Buffalos Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Juvenile.Buffalo"
+                }
+            ]
+        },
+        {
+            "Name": "BoarKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BoarKills-DisplayName\", \"Boars Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Boar"
+                }
+            ]
+        },
+        {
+            "Name": "ZebraKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ZebraKills-DisplayName\", \"Zebras Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Zebra"
+                }
+            ],
+            "SteamStatId": "ZebraKills"
+        },
+        {
+            "Name": "ScorpionKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ScorpionKills-DisplayName\", \"Scorpions Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Scorpion"
+                }
+            ]
+        },
+        {
+            "Name": "CrocodileKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CrocodileKills-DisplayName\", \"Crocodile Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Crocodile"
+                }
+            ]
+        },
+        {
+            "Name": "Ghost_CrocodileKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Ghost_CrocodileKills-DisplayName\", \"Ghost Crocodile Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.GhostCrocodile"
+                }
+            ]
+        },
+        {
+            "Name": "KomodoKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"KomodoKills-DisplayName\", \"Komodo Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Komodo"
+                }
+            ]
+        },
+        {
+            "Name": "StonejawKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StonejawKills-DisplayName\", \"Stonejaws Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.RockDog"
+                }
+            ]
+        },
+        {
+            "Name": "DracKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DracKills-DisplayName\", \"Dracs Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.BatDog"
+                }
+            ]
+        },
+        {
+            "Name": "NeedlerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"NeedlerKills-DisplayName\", \"Needlers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Needler"
+                }
+            ]
+        },
+        {
+            "Name": "StryderKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StryderKills-DisplayName\", \"Stryders Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.SwampQuadruped"
+                }
+            ]
+        },
+        {
+            "Name": "UbisKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"UbisKills-DisplayName\", \"Ubis Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.SwampBird"
+                }
+            ]
+        },
+        {
+            "Name": "DreadwingKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DreadwingKills-DisplayName\", \"Dreadwing Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.PredatorBird"
+                }
+            ]
+        },
+        {
+            "Name": "LavaFlyerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LavaFlyerKills-DisplayName\", \"Lava Fliers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.LavaFlyer"
+                }
+            ]
+        },
+        {
+            "Name": "LavaBomberKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LavaBomberKills-DisplayName\", \"Lava Bombers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.LavaBomber"
+                }
+            ]
+        },
+        {
+            "Name": "RedBackKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RedBackKills-DisplayName\", \"RedBacks Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.LavaBlueBack"
+                },
+				{
+                    "TagName": "NPC.Juvenile.RedBack"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileRedBackKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileRedBackKills-DisplayName\", \"Juvenile RedBacks Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.Juvenile.RedBack"
+                }
+            ]
+        },
+        {
+            "Name": "BlueBackKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BlueBackKills-DisplayName\", \"BlueBacks Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.BlueBack"
+                },
+				{
+                    "TagName": "NPC.Juvenile.BlueBack"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileBlueBackKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileBlueBackKills-DisplayName\", \"Juvenile BlueBacks Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.Juvenile.BlueBack"
+                }
+            ]
+        },
+        {
+            "Name": "ViscidKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ViscidKills-DisplayName\", \"Viscids Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Slug"
+                }
+            ]
+        },
+        {
+            "Name": "IgnariKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"IgnariKills-DisplayName\", \"Ignari Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.LavaSlug"
+                }
+            ]
+        },
+        {
+            "Name": "LavaBroodlingKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LavaBroodlingKills-DisplayName\", \"Lava Broodlings Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.LavaBroodling"
+                }
+            ]
+        },
+        {
+            "Name": "AshenDrakeKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"AshenDrakeKills-DisplayName\", \"Ashen Drakes Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.LavaKomodo"
+                }
+            ]
+        },
+        {
+            "Name": "TerrenusKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TerrenusKills-DisplayName\", \"Terrenus Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Horse"
+                },
+				{
+                    "TagName": "NPC.Juvenile.Horse"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileTerrenusKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileTerrenusKills-DisplayName\", \"Juvenile Terrenus Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.Juvenile.Horse"
+                }
+            ]
+        },
+        {
+            "Name": "TuskerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TuskerKills-DisplayName\", \"Tuskers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Tusker"
+                },
+				{
+                    "TagName": "NPC.Juvenile.Tusker"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileTuskerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileTuskerKills-DisplayName\", \"Juvenile Tuskers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.Juvenile.Tusker"
+                }
+            ]
+        },
+        {
+            "Name": "BeeKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BeeKills-DisplayName\", \"Bees Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Bee"
+                }
+            ]
+        },
+        {
+            "Name": "BatKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BatKills-DisplayName\", \"Vespers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.CaveBat"
+                }
+            ]
+        },
+        {
+            "Name": "Arctic_VesperKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Arctic_VesperKills-DisplayName\", \"Arctic Vespers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.ArcticBat"
+                }
+            ]
+        },
+        {
+            "Name": "ChickenKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ChickenKills-DisplayName\", \"Chickens Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Chicken"
+                }
+            ]
+        },
+        {
+            "Name": "SheepKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SheepKills-DisplayName\", \"Sheep Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Sheep"
+                }
+            ]
+        },
+        {
+            "Name": "Shaggy_ZebraKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Wooly_ZebraKills-DisplayName\", \"Shaggy Zebras Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.WoolyZebra"
+                },
+				{
+                    "TagName": "NPC.Juvenile.WoolyZebra"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileShaggy_ZebraKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileWooly_ZebraKills-DisplayName\", \"Juvenile Shaggy Zebras Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Juvenile.WoolyZebra"
+                }
+            ]
+        },
+        {
+            "Name": "DribboKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Mini_HippoKills-DisplayName\", \"Dribbo Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.MiniHippo"
+                }
+            ]
+        },
+        {
+            "Name": "Mange_WolfKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Mange_WolfKills-DisplayName\", \"Skulmutt Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.MangeWolf"
+                }
+            ]
+        },
+        {
+            "Name": "Mange_Wolf_AlphaKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Mange_Wolf_AlphaKills-DisplayName\", \"Alpha Skulmutt Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.MangeWolf.Alpha"
+                }
+            ]
+        },
+        {
+            "Name": "KiwiKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"KiwiKills-DisplayName\", \"Kiwis Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Kiwi"
+                }
+            ]
+        },
+        {
+            "Name": "SandwormsKilled",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SandwormsKilled-DisplayName\", \"Sandworms Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Sandworm"
+                }
+            ]
+        },
+        {
+            "Name": "SandWorm_SpitterKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SandWorm_SpitterKills-DisplayName\", \"Sand Worm Spitter Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.SandWormSpitter"
+                }
+            ]
+        },
+        {
+            "Name": "CaveWormKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CaveWormKills-DisplayName\", \"Cave Worms Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.CaveWorm"
+                }
+            ]
+        },
+        {
+            "Name": "FishKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FishKills-DisplayName\", \"Fish Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Fish"
+                }
+            ]
+        },
+        {
+            "Name": "DogKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DogKills-DisplayName\", \"Dogs Killed. You Monster!\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Dog"
+                }
+            ]
+        },
+        {
+            "Name": "CatKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CatKills-DisplayName\", \"Cats Killed. You Monster!\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Cat"
+                }
+            ]
+        },
+        {
+            "Name": "HorseKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"HorseKills-DisplayName\", \"Horses Killed. You Monster!\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Horse_Standard"
+                }
+            ]
+        },
+        {
+            "Name": "EagleKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"EagleKills-DisplayName\", \"Eagles Killed. You Monster!\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Eagle"
+                }
+            ]
+        },
+        {
+            "Name": "CalfKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CalfKills-DisplayName\", \"Calves Killed. You Monster!\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Juvenile.Calf"
+                }
+            ]
+        },
+        {
+            "Name": "BullKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BullKills-DisplayName\", \"Bulls Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Bull"
+                }
+            ]
+        },
+        {
+            "Name": "CowKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CowKills-DisplayName\", \"Cows Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Cow"
+                }
+            ]
+        },
+        {
+            "Name": "BossKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BossKills-DisplayName\", \"Bosses Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Character.NPC.Boss"
+                }
+            ]
+        },
+        {
+            "Name": "IceBreakerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"IceBreakerKills-DisplayName\", \"Ice Breakers Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.IceBreaker"
+                }
+            ]
+        },
+        {
+            "Name": "ApeKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ApeKills-DisplayName\", \"Apes Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Ape"
+                }
+            ]
+        },
+        {
+            "Name": "LandsharkKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LandsharkKills-DisplayName\", \"Landsharks Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.Landshark"
+                }
+            ]
+        },
+        {
+            "Name": "LavaHunterKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LavaHunterKills-DisplayName\", \"Lava Hunters Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.LavaHunter"
+                }
+            ]
+        },
+        {
+            "Name": "HammerheadSlugKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"HammerheadSlugKills-DisplayName\", \"Hammerhead Slugs Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+				{
+                    "TagName": "NPC.SlugBoss"
+                }
+            ]
+        },
+        {
+            "Name": "SandwormBossKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SandwormBossKills-DisplayName\", \"Sandworm Bosses Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Character.NPC.Boss"
+                },
+                {
+                    "TagName": "NPC.Sandworm"
+                }
+            ],
+            "TagRequirement": "HasAllTags"
+        },
+        {
+            "Name": "MammothBossKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MammothBossKills-DisplayName\", \"Mammoth Bosses Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Character.NPC.Boss"
+                },
+                {
+                    "TagName": "NPC.Mammoth"
+                }
+            ],
+            "TagRequirement": "HasAllTags"
+        },
+        {
+            "Name": "JaguarBossKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JaguarBossKills-DisplayName\", \"Jaguar Bosses Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Jaguar"
+                },
+                {
+                    "TagName": "Character.NPC.Boss"
+                }
+            ],
+            "TagRequirement": "HasAllTags"
+        },
+        {
+            "Name": "Jaguar_BlackKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Jaguar_BlackKills-DisplayName\", \"Black Jaguar Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Jaguar.Black"
+                },
+                {
+                    "TagName": "Character.NPC.Boss"
+                }
+            ],
+            "TagRequirement": "HasAllTags"
+        },
+        {
+            "Name": "WolfBossKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"WolfBossKills-DisplayName\", \"Wolf Bosses Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Wolf.Alpha"
+                },
+                {
+                    "TagName": "Character.NPC.Boss"
+                }
+            ],
+            "TagRequirement": "HasAllTags"
+        },
+        {
+            "Name": "VoxelsHit",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"VoxelsHit-DisplayName\", \"Voxels Hit\")"
+        },
+        {
+            "Name": "VoxelsCompleted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"VoxelsCompleted-DisplayName\", \"Voxels Completed\")"
+        },
+        {
+            "Name": "StoneMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StoneMined-DisplayName\", \"Stone Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Stone"
+                }
+            ]
+        },
+        {
+            "Name": "IronMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"IronMined-DisplayName\", \"Iron Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Metal"
+                }
+            ]
+        },
+        {
+            "Name": "OxiteMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"OxiteMined-DisplayName\", \"Oxite Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Oxite"
+                }
+            ]
+        },
+        {
+            "Name": "CopperMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CopperMined-DisplayName\", \"Copper Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Copper"
+                }
+            ]
+        },
+        {
+            "Name": "BauxiteMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BauxiteMined-DisplayName\", \"Bauxite Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Bauxite"
+                }
+            ]
+        },
+        {
+            "Name": "SulfurMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SulfurMined-DisplayName\", \"Sulfur Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Sulfur"
+                }
+            ]
+        },
+        {
+            "Name": "SilicaMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SilicaMined-DisplayName\", \"Silica Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Silica"
+                }
+            ]
+        },
+        {
+            "Name": "IceMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"IceMined-DisplayName\", \"Ice Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ice"
+                }
+            ]
+        },
+        {
+            "Name": "TitaniumMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TitaniumMined-DisplayName\", \"Titanium Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Titanium"
+                }
+            ]
+        },
+        {
+            "Name": "PlatinumMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PlatinumMined-DisplayName\", \"Platinum Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Platinum"
+                }
+            ]
+        },
+        {
+            "Name": "CoalMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CoalMined-DisplayName\", \"Coal Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Coal"
+                }
+            ]
+        },
+        {
+            "Name": "SaltMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SaltMined-DisplayName\", \"Salt Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Ore.Salt"
+                }
+            ]
+        },
+        {
+            "Name": "DirtDug",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DirtDug-DisplayName\", \"Dirt Dug\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Dirt"
+                }
+            ]
+        },
+        {
+            "Name": "PyriticCrustMined",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PyriticCrustMined-DisplayName\", \"Pyritic Crust Mined\")",
+            "TrackerCategory": {
+                "RowName": "Mining"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Miasmic.Crust"
+                }
+            ]
+        },
+        {
+            "Name": "MiasmicResourcesGathered",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MiasmicResourcesGathered-DisplayName\", \"Miasmic Resources Gathered\")",
+            "TrackerCategory": {
+                "RowName": "Gathering"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Miasmic"
+                }
+            ]
+        },
+        {
+            "Name": "VestigesGathered",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"VestigessGathered-DisplayName\", \"Vestiges Gathered\")",
+            "TrackerCategory": {
+                "RowName": "Gathering"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Vestige"
+                }
+            ]
+        },
+        {
+            "Name": "MeleeKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MeleeKills-DisplayName\", \"Melee Weapon Kills\")",
+            "TrackerCategory": {
+                "RowName": "MeleeWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Weapon.Spear"
+                },
+                {
+                    "TagName": "Item.Fists"
+                },
+                {
+                    "TagName": "Item.Tool"
+                }
+            ],
+            "SteamStatId": "MeleeKills"
+        },
+        {
+            "Name": "AxeKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"AxeKills-DisplayName\", \"Axe Kills\")",
+            "TrackerCategory": {
+                "RowName": "MeleeWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Tool.Axe"
+                }
+            ]
+        },
+        {
+            "Name": "PickaxeKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PickaxeKills-DisplayName\", \"Pickaxe Kills\")",
+            "TrackerCategory": {
+                "RowName": "MeleeWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Tool.Pickaxe"
+                }
+            ]
+        },
+        {
+            "Name": "KnifeKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"KnifeKills-DisplayName\", \"Knife Kills\")",
+            "TrackerCategory": {
+                "RowName": "MeleeWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Tool.Knife"
+                }
+            ]
+        },
+        {
+            "Name": "SpearKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SpearKills-DisplayName\", \"Spear Kills\")",
+            "TrackerCategory": {
+                "RowName": "MeleeWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Weapon.Spear"
+                }
+            ]
+        },
+        {
+            "Name": "FistKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FistKills-DisplayName\", \"Fist Kills\")",
+            "TrackerCategory": {
+                "RowName": "MeleeWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Fists"
+                }
+            ]
+        },
+        {
+            "Name": "RangedKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RangedKills-DisplayName\", \"Ranged Weapon Kills\")",
+            "TrackerCategory": {
+                "RowName": "RangedWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Weapon.Firearm"
+                },
+                {
+                    "TagName": "Item.Weapon.Bow"
+                }
+            ]
+        },
+        {
+            "Name": "BowKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BowKills-DisplayName\", \"Bow Kills\")",
+            "TrackerCategory": {
+                "RowName": "RangedWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Weapon.Bow"
+                }
+            ],
+            "SteamStatId": "BowKills"
+        },
+        {
+            "Name": "ArrowsFired",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ArrowsFired-DisplayName\", \"Arrows Fired\")",
+            "TrackerCategory": {
+                "RowName": "ProjectilesFired"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Ammo.Arrow"
+                }
+            ]
+        },
+        {
+            "Name": "FirearmKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FirearmKills-DisplayName\", \"Firearm Kills\")",
+            "TrackerCategory": {
+                "RowName": "RangedWeapons"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Weapon.Firearm"
+                }
+            ],
+            "SteamStatId": "FirearmKills"
+        },
+        {
+            "Name": "BulletsFired",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BulletsFired-DisplayName\", \"Bullets Fired\")",
+            "TrackerCategory": {
+                "RowName": "ProjectilesFired"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Ammo.Bullet"
+                }
+            ]
+        },
+        {
+            "Name": "CriticalHits",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CriticalHits-DisplayName\", \"Critical Hits\")"
+        },
+        {
+            "Name": "StealthAttacks",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StealthAttacks-DisplayName\", \"Stealth Attacks\")"
+        },
+        {
+            "Name": "KillcamKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"KillcamKills-DisplayName\", \"Killcam Kills\")"
+        },
+        {
+            "Name": "CreaturesSkinned",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CreaturesSkinned-DisplayName\", \"Creatures Skinned\")"
+        },
+        {
+            "Name": "BoneCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BoneCollected-DisplayName\", \"Bone Collected\")",
+            "TrackerCategory": {
+                "RowName": "Skinning"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Bone"
+                }
+            ]
+        },
+        {
+            "Name": "LeatherCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LeatherCollected-DisplayName\", \"Leather Collected\")",
+            "TrackerCategory": {
+                "RowName": "Skinning"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Leather"
+                }
+            ]
+        },
+        {
+            "Name": "FurCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FurCollected-DisplayName\", \"Fur Collected\")",
+            "TrackerCategory": {
+                "RowName": "Skinning"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Fur"
+                }
+            ]
+        },
+        {
+            "Name": "MeatCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MeatCollected-DisplayName\", \"Meat Collected\")",
+            "TrackerCategory": {
+                "RowName": "Skinning"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Raw"
+                }
+            ]
+        },
+        {
+            "Name": "PrimeMeatCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PrimeMeatCollected-DisplayName\", \"Prime Meat Collected\")",
+            "TrackerCategory": {
+                "RowName": "Skinning"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Raw.Prime"
+                }
+            ]
+        },
+        {
+            "Name": "Butter_CreamCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"Butter_CreamCrafted-DisplayName\", \"Butter/Cream Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Spoilable"
+                }
+            ]
+        },
+        {
+            "Name": "TreesFelled",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TreesFelled-DisplayName\", \"Trees Felled\")"
+        },
+        {
+            "Name": "WoodCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"WoodCollected-DisplayName\", \"Wood Collected\")",
+            "TrackerCategory": {
+                "RowName": "Logging"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Wood"
+                }
+            ]
+        },
+        {
+            "Name": "SticksCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SticksCollected-DisplayName\", \"Sticks Collected\")",
+            "TrackerCategory": {
+                "RowName": "Logging"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Stick"
+                }
+            ]
+        },
+        {
+            "Name": "LuresCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"LuresCrafted-DisplayName\", \"Lures Craftied\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Attachment.FishingRod"
+                }
+            ]
+        },
+        {
+            "Name": "FibreCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FibreCollected-DisplayName\", \"Fibre Collected\")",
+            "TrackerCategory": {
+                "RowName": "Gathering"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Resource.Fiber"
+                }
+            ]
+        },
+        {
+            "Name": "BerriesCollected",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BerriesCollected-DisplayName\", \"Berries Collected\")",
+            "TrackerCategory": {
+                "RowName": "Gathering"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Berry"
+                }
+            ]
+        },
+        {
+            "Name": "TimeSurvived",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TimeSurvived-DisplayName\", \"Time Survived\")"
+        },
+        {
+            "Name": "TimeSurvivedInForest",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TimeSurvivedInForest-DisplayName\", \"Time Survived in Forest Biome\")"
+        },
+        {
+            "Name": "TimeSurvivedInDesert",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TimeSurvivedInDesert-DisplayName\", \"Time Survived in Desert Biome\")"
+        },
+        {
+            "Name": "TimeSurvivedInArctic",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TimeSurvivedInArctic-DisplayName\", \"Time Survived in Arctic Biome\")"
+        },
+        {
+            "Name": "TimeSurvivedInCaves",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TimeSurvivedInCaves-DisplayName\", \"Time Survived in Caves\")"
+        },
+        {
+            "Name": "NightsSlept",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"NightsSlept-DisplayName\", \"Nights Slept\")"
+        },
+        {
+            "Name": "DistanceTraveled",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DistanceTraveled-DisplayName\", \"Distance Traveled\")"
+        },
+        {
+            "Name": "DistanceTraveledInForest",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DistanceTraveledInForest-DisplayName\", \"Distance Traveled in Forest Biome\")"
+        },
+        {
+            "Name": "DistanceTraveledInDesert",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DistanceTraveledInDesert-DisplayName\", \"Distance Traveled in Desert Biome\")"
+        },
+        {
+            "Name": "DistanceTraveledInArctic",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DistanceTraveledInArctic-DisplayName\", \"Distance Traveled in Arctic Biome\")"
+        },
+        {
+            "Name": "DistanceTraveledInCaves",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DistanceTraveledInCaves-DisplayName\", \"Distance Traveled in Caves\")"
+        },
+        {
+            "Name": "DownedCount",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DownedCount-DisplayName\", \"Times Downed\")",
+            "SteamStatId": "DownedCount"
+        },
+        {
+            "Name": "RevivedCount",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RevivedCount-DisplayName\", \"Times Revived\")"
+        },
+        {
+            "Name": "RespawnCount",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RespawnCount-DisplayName\", \"Times Respawned\")"
+        },
+        {
+            "Name": "OtherPlayersRevivedCount",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"OtherPlayersRevivedCount-DisplayName\", \"Times Reviving Other Players\")",
+            "SteamStatId": "OtherPlayersRevivedCount"
+        },
+        {
+            "Name": "FoodConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FoodConsumed-DisplayName\", \"Food Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food"
+                }
+            ]
+        },
+        {
+            "Name": "FishDishesConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FishDishesConsumed-DisplayName\", \"Fish Entrees Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Cooked.Fish"
+                }
+            ]
+        },
+        {
+            "Name": "BreadsConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BreadsConsumed-DisplayName\", \"Breads Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Cooked.Grain"
+                }
+            ]
+        },
+        {
+            "Name": "VegetableDishesConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"VegetableDishesConsumed-DisplayName\", \"Vegetable Entrees Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Cooked.Vege"
+                }
+            ]
+        },
+        {
+            "Name": "MeatDishesConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MeatDishesConsumed-DisplayName\", \"Meat Entrees Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Cooked.Meat"
+                }
+            ]
+        },
+        {
+            "Name": "FruitDishesConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FruitDishesConsumed-DisplayName\", \"Fruit Entrees Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Cooked.Fruit"
+                }
+            ]
+        },
+        {
+            "Name": "MushroomDishesConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MushroomDishesConsumed-DisplayName\", \"Mushroom Entrees Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Cooked.Fungi"
+                }
+            ]
+        },
+        {
+            "Name": "HoneyDishesConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"HoneyDishesConsumed-DisplayName\", \"Honey Entrees Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Cooked.Honey"
+                },
+				{
+                    "TagName": "Item.Consumable.Food.Honey"
+                }
+            ]
+        },
+        {
+            "Name": "SoupDishesConsumed",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SoupDishesConsumed-DisplayName\", \"Soup Entrees Consumed\")",
+            "TrackerCategory": {
+                "RowName": "Consume"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Soup"
+                }
+            ]
+        },
+        {
+            "Name": "BuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BuildingsCrafted-DisplayName\", \"Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building"
+                }
+            ]
+        },
+        {
+            "Name": "ThatchBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ThatchBuildingsCrafted-DisplayName\", \"Thatch Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Thatch"
+                }
+            ]
+        },
+        {
+            "Name": "WoodBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"WoodBuildingsCrafted-DisplayName\", \"Wood Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Wood"
+                }
+            ]
+        },
+        {
+            "Name": "BeeswaxWoodBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BeeswaxWoodBuildingsCrafted-DisplayName\", \"Beeswax Wood Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.BeeswaxWood"
+                }
+            ]
+        },
+        {
+            "Name": "InteriorWoodBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"InteriorWoodBuildingsCrafted-DisplayName\", \"Interior Wood Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.InteriorWood"
+                }
+            ]
+        },
+        {
+            "Name": "StoneBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StoneBuildingsCrafted-DisplayName\", \"Stone Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Stone"
+                }
+            ]
+        },
+        {
+            "Name": "StoneBrickBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StoneBrickBuildingsCrafted-DisplayName\", \"Stone Brick Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.StoneBrick"
+                }
+            ]
+        },
+        {
+            "Name": "ConcreteBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ConcreteBuildingsCrafted-DisplayName\", \"Concrete Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Concrete"
+                }
+            ]
+        },
+        {
+            "Name": "IronBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"IronBuildingsCrafted-DisplayName\", \"Iron Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Iron"
+                }
+            ]
+        },
+        {
+            "Name": "GlassBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"GlassBuildingsCrafted-DisplayName\", \"Glass Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Glass"
+                }
+            ]
+        },
+        {
+            "Name": "TemperedGlassBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TemperedGlassBuildingsCrafted-DisplayName\", \"Reinforced Glass Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Glass.Tempered"
+                }
+            ]
+        },
+        {
+            "Name": "ScoriaBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ScoriaBuildingsCrafted-DisplayName\", \"Scoria Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Scoria"
+                }
+            ]
+        },
+        {
+            "Name": "ScoriaBrickBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ScoriaBrickBuildingsCrafted-DisplayName\", \"Scoria Brick Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.ScoriaBrick"
+                }
+            ]
+        },
+        {
+            "Name": "ClayBrickBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ClayBrickBuildingsCrafted-DisplayName\", \"Clay Brick Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.ClayBrick"
+                }
+            ]
+        },
+        {
+            "Name": "IceBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"IceBuildingsCrafted-DisplayName\", \"Ice Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Ice"
+                }
+            ]
+        },
+        {
+            "Name": "DirtBuildingsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DirtBuildingsCrafted-DisplayName\", \"Dirt Building Pieces Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Building.Dirt"
+                }
+            ]
+        },
+        {
+            "Name": "DirtMoundsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DirtMoundsCrafted-DisplayName\", \"Dirt Mounds Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Mound"
+                }
+            ]
+        },
+        {
+            "Name": "DeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DeployablesCrafted-DisplayName\", \"Deployables Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Deployable"
+                }
+            ]
+        },
+        {
+            "Name": "DecorationsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"DecorationsCrafted-DisplayName\", \"Decorations Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration"
+                }
+            ]
+        },
+        {
+            "Name": "StatueDecorationsCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StatueDecorationsCrafted-DisplayName\", \"Statues Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Statue"
+                }
+            ]
+        },
+        {
+            "Name": "IndustrialistDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"IndustrialistDeployablesCrafted-DisplayName\", \"Industrialist Deployables Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Industrialist"
+                }
+            ]
+        },
+        {
+            "Name": "BrutalistDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BrutalistDeployablesCrafted-DisplayName\", \"Brutalist Deployables Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Brutalist"
+                }
+            ]
+        },
+        {
+            "Name": "ArtDecoDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ArtDecoDeployablesCrafted-DisplayName\", \"Art Deco Deployables Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.ArtDeco"
+                }
+            ]
+        },
+        {
+            "Name": "RusticDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"RusticDeployablesCrafted-DisplayName\", \"Rustic Deployables Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Rustic"
+                }
+            ]
+        },
+        {
+            "Name": "CarvedDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CarvedDeployablesCrafted-DisplayName\", \"Carved Deployables Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Carved"
+                }
+            ]
+        },
+        {
+            "Name": "HomesteadDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"HomesteadDeployablesCrafted-DisplayName\", \"Homestead Deployables Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Homestead"
+                }
+            ]
+        },
+        {
+            "Name": "GeodeLampDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"GeodeLampDeployablesCrafted-DisplayName\", \"Geode Lamps Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Geode"
+                }
+            ]
+        },
+        {
+            "Name": "PaintingDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PaintingDeployablesCrafted-DisplayName\", \"Paintings Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Painting"
+                }
+            ]
+        },
+        {
+            "Name": "TrophyDeployablesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"TrophyDeployablesCrafted-DisplayName\", \"Trophies Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Decoration.Trophy"
+                }
+            ]
+        },
+        {
+            "Name": "CakesCrafted",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CakesCrafted-DisplayName\", \"Cakes Crafted\")",
+            "TrackerCategory": {
+                "RowName": "Crafting"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Deployable.Food"
+                }
+            ]
+        },
+        {
+            "Name": "FiresExtinguished",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FiresExtinguished-DisplayName\", \"Fires Extinguished\")"
+        },
+        {
+            "Name": "CornHarvested",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CornHarvested-DisplayName\", \"Corn Harvested\")",
+            "TrackerCategory": {
+                "RowName": "Farming"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Corn"
+                }
+            ]
+        },
+        {
+            "Name": "PumpkinHarvested",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PumpkinHarvested-DisplayName\", \"Pumpkins Harvested\")",
+            "TrackerCategory": {
+                "RowName": "Farming"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Pumpkin"
+                }
+            ]
+        },
+        {
+            "Name": "MushroomHarvested",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MushroomHarvested-DisplayName\", \"Mushrooms Harvested\")",
+            "TrackerCategory": {
+                "RowName": "Farming"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Mushroom"
+                }
+            ]
+        },
+        {
+            "Name": "SquashHarvested",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"SquashHarvested-DisplayName\", \"Squash Harvested\")",
+            "TrackerCategory": {
+                "RowName": "Farming"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Squash"
+                }
+            ]
+        },
+        {
+            "Name": "WatermelonHarvested",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"WatermelonHarvested-DisplayName\", \"Watermelon Harvested\")",
+            "TrackerCategory": {
+                "RowName": "Farming"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Consumable.Food.Watermelon"
+                }
+            ]
+        },
+        {
+            "Name": "CropsHarvested",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CropsHarvested-DisplayName\", \"Crops Harvested\")",
+            "TrackerCategory": {
+                "RowName": "Farming"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "Item.Plant"
+                }
+            ]
+        },
+        {
+            "Name": "MoaKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"MoaKills-DisplayName\", \"Moas Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Moa"
+                },
+                {
+                    "TagName": "NPC.Juvenile.Moa"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileMoaKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileMoaKills-DisplayName\", \"Juvenile Moas Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Juvenile.Moa"
+                }
+            ]
+        },
+        {
+            "Name": "ArcticMoaKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ArcticMoaKills-DisplayName\", \"Arctic Moas Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.ArcticMoa"
+                },
+                {
+                    "TagName": "NPC.Juvenile.ArcticMoa"
+                }
+            ]
+        },
+        {
+            "Name": "JuvenileArcticMoaKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"JuvenileArcticMoaKills-DisplayName\", \"Juvenile Arctic Moas Killed\")",
+            "TrackerCategory": {
+                "RowName": "Creatures"
+            },
+            "TagsToTrack": [
+                {
+                    "TagName": "NPC.Juvenile.ArcticMoa"
+                }
+            ]
+        },
+        {
+            "Name": "PlayerKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PlayerKills-DisplayName\", \"Players Killed\")",
+            "SteamStatId": "PlayerKills",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "StruckByLightningCount",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StruckByLightningCount-DisplayName\", \"Times Struck by Lightning\")",
+            "SteamStatId": "StruckByLightningCount",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "VisitBiomesList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"VisitBiomesList-DisplayName\", \"Biomes Visited\")",
+            "SteamStatId": "VisitBiomesList",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "OreTypesMinedList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"OreTypesMinedList-DisplayName\", \"Ore Types Mined\")",
+            "SteamStatId": "OreTypesMinedList",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "PlantTypesCollectedList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"PlantTypesCollectedList-DisplayName\", \"Plant Types Collected\")",
+            "SteamStatId": "PlantTypesCollectedList",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "FoodsCraftedList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FoodsCraftedList-DisplayName\", \"Foods Cooked\")",
+            "SteamStatId": "FoodsCraftedList",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "ItemsAltered",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ItemsAltered-DisplayName\", \"Items Altered\")",
+            "SteamStatId": "ItemsAltered",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "ThumperActivations",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ThumperActivations-DisplayName\", \"ThumperActivations\")",
+            "SteamStatId": "ThumperActivations",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "ThumperCompletions",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ThumperCompletions-DisplayName\", \"Thumper runs completed\")",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "VoxelsRegenerated",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"VoxelsRegenerated-DisplayName\", \"Voxels Regenerated\")",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "OreRegenerated",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"OreRegenerated-DisplayName\", \"Ore Regenerated\")",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "CreditsEarned",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"CreditsEarned-DisplayName\", \"Ren Earned\")",
+            "SteamStatId": "CreditsEarned",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "ExoticsEarned",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"ExoticsEarned-DisplayName\", \"Exotics Earned\")",
+            "SteamStatId": "ExoticsEarned",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "StyxMissionCompletionList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StyxMissionCompletionList-DisplayName\", \"Styx Missions Completed\")",
+            "SteamStatId": "StyxMissionsComplete",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "OlympusMissionCompletionList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"OlympusMissionCompletionList-DisplayName\", \"Olympus Missions Completed\")",
+            "SteamStatId": "OlympusMissionsComplete",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "BlueprintsUnlockedT1List",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BlueprintsUnlockedT1List-DisplayName\", \"Blueprints Unlocked in Tier 1\")",
+            "SteamStatId": "T1BlueprintsUnlocked",
+            "SetType": "KeepHighest",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "BlueprintsUnlockedT2List",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BlueprintsUnlockedT2List-DisplayName\", \"Blueprints Unlocked in Tier 2\")",
+            "SteamStatId": "T2BlueprintsUnlocked",
+            "SetType": "KeepHighest",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "BlueprintsUnlockedT3List",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BlueprintsUnlockedT3List-DisplayName\", \"Blueprints Unlocked in Tier 3\")",
+            "SteamStatId": "T3BlueprintsUnlocked",
+            "SetType": "KeepHighest",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "BlueprintsUnlockedT4List",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BlueprintsUnlockedT4List-DisplayName\", \"Blueprints Unlocked in Tier 4\")",
+            "SteamStatId": "T4BlueprintsUnlocked",
+            "SetType": "KeepHighest",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "FishTypesCaughtList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"FishTypesCaughtList-DisplayName\", \"Fish Types Caught\")",
+            "SteamStatId": "FishTypesCaught",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "BestiaryEntriesCompletedList",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"BestiaryEntriesCompletedList-DisplayName\", \"Bestiary Entries Completed\")",
+            "SteamStatId": "BestiaryEntriesCompleted",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "StealthCriticalKills",
+            "DisplayName": "NSLOCTEXT(\"D_PlayerTrackers\", \"StealthCriticalKills-DisplayName\", \"Stealth Critical Kills\")",
+            "SteamStatId": "KillcamKills",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "Galileo"
+                }
+            }
+        },
+        {
+            "Name": "OlympusDynamicMissionsComplete",
+            "DisplayName": "INVTEXT(\"[DNT] Olympus Dynamic Missions Complete\")",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "NewFrontiers"
+                }
+            }
+        },
+        {
+            "Name": "StyxDynamicMissionsComplete",
+            "DisplayName": "INVTEXT(\"[DNT] Styx Dynamic Missions Complete\")",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "NewFrontiers"
+                }
+            }
+        },
+        {
+            "Name": "PrometheusDynamicMissionsComplete",
+            "DisplayName": "INVTEXT(\"[DNT] Prometheus Dynamic Missions Complete\")",
+            "Metadata": {
+                "RequiredFeatureLevel": {
+                    "RowName": "NewFrontiers"
+                }
+            }
+        }
+    ]
+}
