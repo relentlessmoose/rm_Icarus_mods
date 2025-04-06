@@ -55,7 +55,7 @@
 			"name": "rm_Feast_P",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w171",
+			"compatibility": "w174",
 			"description": "Slight increases on select timers/buffs from consumables.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Feast_P.pak"
@@ -75,7 +75,7 @@
 			"name": "rm_Moar_Power",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w171",
+			"compatibility": "w174",
 			"description": "Wind Turbine output: 2250.   Solar Panel output: 8000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
@@ -115,7 +115,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w171",
+			"compatibility": "w174",
 			"description": "Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
