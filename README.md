@@ -1,4 +1,4 @@
-Above, you have mod name and which file(s) it edits displayed.
+Above, you have mod name and which file(s) it edits displayed.  
 *Check back often for frequent updates, not just weekly.*
 
 A mix of QoL mods and difficulty increasing mods.  
