@@ -22,7 +22,7 @@
 			}
 		},
 		{
-			"name": "rm_Buffs_and_Bundles_P",
+			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w175",
@@ -32,7 +32,7 @@
 			}
 		},
 		{
-			"name": "rm_Bulk_Recipes_P",
+			"name": "rm_Bulk_Recipes",
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w175",
