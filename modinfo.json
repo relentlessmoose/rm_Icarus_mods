@@ -66,7 +66,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w175",
-			"description": "Vanilla spawn tables, except everything will be infused.",
+			"description": "Vanilla spawn tables, except everything will be infused.  It WILL be painful.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Infused_Chaos_P.pak"
 			}
