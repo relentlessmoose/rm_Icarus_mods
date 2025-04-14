@@ -136,7 +136,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w175",
-			"description": "For those who want to know how many Dracs they've killed.  45+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: <Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>",
+			"description": "For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: <Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
 			}
@@ -146,7 +146,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w175",
-			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level, allowing more talent points.  DOES NOT add Prospector talent points.",
+			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
 			}
