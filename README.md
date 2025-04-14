@@ -1,5 +1,4 @@
-*Check back often for frequent updates, not just weekly.* 
-Above, you have mod name and which file(s) it edits displayed.
+*Check back often for frequent updates, not just weekly.*  Above, you have mod name and which file(s) it edits displayed.
 
 A mix of QoL mods and difficulty increasing mods.  
 Spawn additions, weather additions, stack sizes, attachment slots, modifiers, trackers, and more.  
