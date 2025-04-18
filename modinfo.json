@@ -52,6 +52,16 @@
 			}
 		},
 		{
+			"name": "rm_Durability",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w176",
+			"description": "Increased durability of workshop items, wind turbines, wall defenses.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Durability_P.pak"
+			}
+		},
+		{
 			"name": "rm_Exotics_Farm",
 			"author": "relentlessmoose",
 			"version": "1.0",
