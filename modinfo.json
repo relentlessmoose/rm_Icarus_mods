@@ -35,7 +35,7 @@
 			"name": "rm_Bulk_Recipes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Adds bulk recipes for many processor recipes and more.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
@@ -45,7 +45,7 @@
 			"name": "rm_Caveworm_Exotics",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Adds 10% for Caveworms to drop a low amount of Exotics.  This is NOT meant to be any sort of farm.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Caveworm_Exotics_P.pak"
@@ -75,7 +75,7 @@
 			"name": "rm_Meta_Attachment",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Now including Fillable modifications.  Adds attachments to workshop armor, and some tools/weapons.  Adds station repair option to some items.  Allows workshop power source to recharge via Charging Station.  TESTING: Return to orbit.  Minor oxygen and canteen capacity increases.  Some battery powered tool capacity increases.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachment_P.pak"
@@ -95,7 +95,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
@@ -125,7 +125,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
