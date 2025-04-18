@@ -8,8 +8,7 @@
 			"description": "Contains almost all of my mods into one mod. Infused Chaos not included.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
-			},
-			"readmeURL": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
+			}
 		},
 		{
 			"name": "rm_Angry_Moose",
