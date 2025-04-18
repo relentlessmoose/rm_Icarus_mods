@@ -25,7 +25,7 @@
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
@@ -55,7 +55,7 @@
 			"name": "rm_Exotics_Farm",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Olympus: 6 to 8 veins, all veins locations possible, 300-600 each vein.  Styx & Prometheus: 6 to 8 veins, all vein locations possible, 400-600 exotics each vein, 400-800 red exotics each vein.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Exotics_Farm_P.pak"
@@ -65,7 +65,7 @@
 			"name": "rm_Infused_Chaos",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Vanilla spawn tables, except everything will be infused.  It WILL be painful.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Infused_Chaos_P.pak"
@@ -85,7 +85,7 @@
 			"name": "rm_Moar_Power",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Wind Turbine output: 2250.   Solar Panel output: 8000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
@@ -115,7 +115,7 @@
 			"name": "rm_Shifting_Winds",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
@@ -135,7 +135,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: <Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
@@ -145,7 +145,7 @@
 			"name": "rm_True_Level",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
+			"compatibility": "w176",
 			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
