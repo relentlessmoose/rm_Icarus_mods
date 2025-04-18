@@ -15,8 +15,8 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w175",
-			"description": "Mixes in creatures from both Styx & Prometheus into Olympus, and Prometheus creatures into Styx.  A few very scarce workshop animals thrown in as well.  Added Exotic Infused creatures.  Spawn balances, additions, and MORE balances.  Now with +25% more creatures.",
+			"compatibility": "w176",
+			"description": "Mixes some creatures from all maps into all maps, in limited or balanced weights.	Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers are some mixed in.	Very low chance for some workshop animals in limited areas on OLY & STYX.	Added more Exotic Infused creatures to Prometheus.	Spawn balances, and MORE balances.	Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
 			}
