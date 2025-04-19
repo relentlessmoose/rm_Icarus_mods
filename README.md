@@ -11,4 +11,4 @@ At some point I'll record every change made and note them here.
 [Total Moose Experience](https://github.com/relentlessmoose/rm_Icarus_mods/blob/main/rm_Total_Moose_Experience_P.pak) is my all-in-one.
 
 Suggestions and requests welcome.
-@relentlessmoose in the [Linkarus Discord](https://discord.gg/linkarus-icarus-modding-936621749733302292).
+@relentlessmoose on discord.
