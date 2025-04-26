@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w176",
+			"compatibility": "w177",
 			"description": "Contains almost all of my mods into one mod. Infused Chaos not included.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -24,7 +24,7 @@
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w176",
+			"compatibility": "w177",
 			"description": "Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
@@ -85,7 +85,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w176",
-			"description": "Now including Fillable modifications.  Adds attachments to workshop armor, and some tools/weapons.  Adds station repair option to some items.  Allows workshop power source to recharge via Charging Station.  TESTING: Return to orbit.  Minor oxygen and canteen capacity increases.  Some battery powered tool capacity increases.",
+			"description": "Now including Fillable modifications.  Adds attachments to workshop armor, and some tools/weapons.  Adds station repair option to some items.  Allows workshop power source to recharge via Charging Station.  Minor oxygen and canteen capacity increases.  Some battery powered tool capacity increases.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachment_P.pak"
 			}
