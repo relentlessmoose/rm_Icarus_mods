@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w179",
 			"description": "Contains almost all of my mods into one mod. And some unlreleased edits, or things I'm working on. Infused Chaos not included.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -14,7 +14,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w179",
 			"description": "Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
@@ -24,7 +24,7 @@
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w179",
 			"description": "Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
