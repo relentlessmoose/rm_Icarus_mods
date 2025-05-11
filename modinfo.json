@@ -84,7 +84,7 @@
 			"name": "rm_Moar_Power",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w179",
 			"description": "Wind Turbine output: 2250.   Solar Panel output: 8000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
@@ -114,7 +114,7 @@
 			"name": "rm_Shifting_Winds",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w179",
 			"description": "Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
@@ -144,7 +144,7 @@
 			"name": "rm_True_Level",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w179",
 			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
