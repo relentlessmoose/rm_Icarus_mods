@@ -24,7 +24,7 @@
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w179",
+			"compatibility": "w180",
 			"description": "Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
