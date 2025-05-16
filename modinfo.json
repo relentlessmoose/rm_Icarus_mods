@@ -114,7 +114,7 @@
 			"name": "rm_Shifting_Winds",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w179",
+			"compatibility": "w180",
 			"description": "Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
@@ -134,7 +134,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w180",
 			"description": "For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: `<Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>`",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
@@ -144,7 +144,7 @@
 			"name": "rm_True_Level",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w179",
+			"compatibility": "w180",
 			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
