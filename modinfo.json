@@ -54,7 +54,7 @@
 			"name": "rm_Durability",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w178",
+			"compatibility": "w180",
 			"description": "Increased durability of workshop items, wind turbines, wall defenses.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Durability_P.pak"
