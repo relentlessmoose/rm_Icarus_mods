@@ -3,7 +3,7 @@ Above, you have mod name and which file(s) it edits displayed.
 
 A mix of QoL mods and difficulty increasing mods.  
 Spawn additions, weather additions, stack sizes, attachment slots, modifiers, trackers, and more.  
-Aiming for balance in most things I edit.  
+While balance is preferred, it may not always be present.  
 Always looking for new ideas.
 
 At some point I'll record every change made and note them here.
