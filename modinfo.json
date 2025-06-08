@@ -51,6 +51,16 @@
 			}
 		},
 		{
+			"name": "rm_Desired_Drop",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w183",
+			"description": "Numerous additional Drop Zones.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
+			}
+		},
+		{
 			"name": "rm_Filled_Attachments",
 			"author": "relentlessmoose",
 			"version": "1.0",
