@@ -51,16 +51,6 @@
 			}
 		},
 		{
-			"name": "rm_Durability",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w183",
-			"description": "Increased durability of workshop items, wind turbines, wall defenses.",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Durability_P.pak"
-			}
-		},
-		{
 			"name": "rm_Infused_Chaos",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -71,13 +61,13 @@
 			}
 		},
 		{
-			"name": "rm_Meta_Attachment",
+			"name": "rm_Filled_Attachments",
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w183",
-			"description": "Now including Fillable modifications.  Adds attachments to workshop armor, and some tools/weapons.  Adds station repair option to some items.  Allows workshop power source to recharge via Charging Station.  Minor oxygen and canteen capacity increases.  Some battery powered tool capacity increases.",
+			"description": "Combining rm_Meta_Attachment + rm_Durability. Increased durability of workshop items, wind turbines, wall defenses. Adds attachments to workshop armor, and some tools/weapons. Adds station repair option to some items. Allows workshop power source to recharge via Charging Station. Pre-filled Workshop Canteens and Oxygen Tanks. Minor oxygen and canteen capacity increases. Some battery powered tool capacity increases.",
 			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachment_P.pak"
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Filled_Attachments_P.pak"
 			}
 		},
 		{
