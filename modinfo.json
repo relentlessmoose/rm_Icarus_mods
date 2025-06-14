@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Contains almost all of my mods into one mod. And some unlreleased edits, or things I'm working on. Infused Chaos not included.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -14,7 +14,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
@@ -24,7 +24,7 @@
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Bulk_Recipes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Adds bulk recipes for many processor recipes and more.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
@@ -44,7 +44,7 @@
 			"name": "rm_Caveworm_Exotics",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Adds 10% for Caveworms to drop a low amount of Exotics.  This is NOT meant to be any sort of farm.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Caveworm_Exotics_P.pak"
@@ -54,7 +54,7 @@
 			"name": "rm_Desired_Drop",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Numerous additional Drop Zones.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
@@ -64,7 +64,7 @@
 			"name": "rm_Filled_Attachments",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Combining rm_Meta_Attachment + rm_Durability. Increased durability of workshop items, wind turbines, wall defenses. Adds attachments to workshop armor, and some tools/weapons. Adds station repair option to some items. Allows workshop power source to recharge via Charging Station. Pre-filled Workshop Canteens and Oxygen Tanks. Minor oxygen and canteen capacity increases. Some battery powered tool capacity increases.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Filled_Attachments_P.pak"
@@ -74,7 +74,7 @@
 			"name": "rm_Infused_Chaos",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Vanilla spawn tables, except everything will be infused.  It WILL be painful.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Infused_Chaos_P.pak"
@@ -84,7 +84,7 @@
 			"name": "rm_Moar_Power",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Wind Turbine output: 2250.   Solar Panel output: 8000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
@@ -94,7 +94,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
@@ -104,7 +104,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
@@ -114,7 +114,7 @@
 			"name": "rm_Null_Comms",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Eliminates the Null Sector's ability to hinder communications.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Null_Comms_P.pak"
@@ -124,7 +124,7 @@
 			"name": "rm_Shifting_Winds",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
@@ -134,7 +134,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
@@ -144,7 +144,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: `<Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>`",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
@@ -154,7 +154,7 @@
 			"name": "rm_True_Level",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w183",
+			"compatibility": "w184",
 			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
