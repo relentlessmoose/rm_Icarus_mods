@@ -134,7 +134,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w184",
+			"compatibility": "w185",
 			"description": "Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
