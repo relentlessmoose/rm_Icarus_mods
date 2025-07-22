@@ -21,6 +21,16 @@
 			}
 		},
 		{
+			"name": "rm_Aggression",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w189",
+			"description": "Take the Bear Cub's aggressive behavior - all carnivores will now mimic this.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
+			}
+		},
+		{
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
