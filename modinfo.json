@@ -14,7 +14,7 @@
 			"name": "rm_3rd_Socket",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Attempts to restore the third Exotics Extractor socket.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_3rd_Socket_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
@@ -44,7 +44,7 @@
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
@@ -64,7 +64,7 @@
 			"name": "rm_Caveworm_Exotics",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Adds 10% for Caveworms to drop a low amount of Exotics.  This is NOT meant to be any sort of farm.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Caveworm_Exotics_P.pak"
@@ -94,7 +94,7 @@
 			"name": "rm_Filled_Attachments",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Combining rm_Meta_Attachment + rm_Durability. Increased durability of workshop items, wind turbines, wall defenses. Adds attachments to workshop armor, and some tools/weapons. Adds station repair option to some items. Allows workshop power source to recharge via Charging Station. Pre-filled Workshop Canteens and Oxygen Tanks. Minor oxygen and canteen capacity increases. Some battery powered tool capacity increases.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Filled_Attachments_P.pak"
@@ -124,7 +124,7 @@
 			"name": "rm_Moar_Power",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Wind Turbine output: 2250.   Solar Panel output: 8000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
@@ -134,7 +134,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
