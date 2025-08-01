@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w190",
+			"compatibility": "w191",
 			"description": "Contains almost all of my mods into one mod. And some unlreleased edits, or things I'm working on. Infused Chaos not included. GREAT HUNTS! NEW Enhanced Organic Residue Cleaner to cost more, process faster. NEW Improved creature aggressiveness and infighting.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -54,7 +54,7 @@
 			"name": "rm_Bulk_Recipes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Adds bulk recipes for many processor recipes and more.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
@@ -84,7 +84,7 @@
 			"name": "rm_Desired_Drop",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Numerous additional Drop Zones.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
@@ -144,7 +144,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
@@ -154,7 +154,7 @@
 			"name": "rm_Null_Comms",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Eliminates the Null Sector's ability to hinder communications.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Null_Comms_P.pak"
@@ -184,7 +184,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: `<Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>`",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
