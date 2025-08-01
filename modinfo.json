@@ -24,7 +24,7 @@
 			"name": "rm_Aggression",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Take the Bear Cub's aggressive behavior - all carnivores will now mimic this. Included in rm_Angry_Moose.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -164,7 +164,7 @@
 			"name": "rm_Shifting_Winds",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
@@ -194,7 +194,7 @@
 			"name": "rm_True_Level",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w189",
+			"compatibility": "w191",
 			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
