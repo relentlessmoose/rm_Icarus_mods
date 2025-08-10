@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w191",
+			"compatibility": "w192",
 			"description": "Contains almost all of my mods into one mod. And some unlreleased edits, or things I'm working on. Infused Chaos not included. GREAT HUNTS! NEW Enhanced Organic Residue Cleaner to cost more, process faster. NEW Improved creature aggressiveness and infighting.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -68,16 +68,6 @@
 			"description": "Adds 10% for Caveworms to drop a low amount of Exotics.  This is NOT meant to be any sort of farm.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Caveworm_Exotics_P.pak"
-			}
-		},
-		{
-			"name": "rm_Cold_Javelin_Fix",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w191",
-			"description": "Correct the missing entry for Cold Steel Throwing Spears (Javelins). For use in the new Javelin Launcher.",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Cold_Javelin_Fix_P.pak"
 			}
 		},
 		{
@@ -202,3 +192,4 @@
 		}
 	]
 }
+
