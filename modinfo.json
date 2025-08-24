@@ -91,6 +91,16 @@
 			}
 		},
 		{
+			"name": "rm_GH_Choices",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w194",
+			"description": "Remove Choices from Great Hunts campaigns, opening all missions per map.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
+			}
+		},
+		{
 			"name": "rm_IceBreaker",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -181,17 +191,18 @@
 			}
 		},
 		{
-			"name": "rm_GH_Choices",
+			"name": "rm_World_Bosses",
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Remove Choices from Great Hunts campaigns, opening all missions per map.",
+			"description": "Olympus: 4 Black Wolf, and 4 Sandworm. Styx: 4 Giant Scorpion, 4 Black Wolf, and 4 Sandworm. Prometheus: 2 Hammerhead, 1 Lava Hunter.",
 			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_World_Bosses_P.pak"
 			}
 		}
 	]
 }
+
 
 
 
