@@ -14,7 +14,7 @@
 			"name": "rm_3rd_Socket",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w191",
+			"compatibility": "w194",
 			"description": "Attempts to restore the third Exotics Extractor socket.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_3rd_Socket_P.pak"
@@ -24,7 +24,7 @@
 			"name": "rm_Aggression",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w191",
+			"compatibility": "w194",
 			"description": "Take the Bear Cub's aggressive behavior - all carnivores will now mimic this. Included in rm_Angry_Moose.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w191",
+			"compatibility": "w194",
 			"description": "Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
@@ -74,7 +74,7 @@
 			"name": "rm_Desired_Drop",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w191",
+			"compatibility": "w194",
 			"description": "Numerous additional Drop Zones.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
@@ -184,7 +184,7 @@
 			"name": "rm_True_Level",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w191",
+			"compatibility": "w194",
 			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
@@ -192,4 +192,5 @@
 		}
 	]
 }
+
 
