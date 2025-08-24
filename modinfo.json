@@ -101,6 +101,16 @@
 			}
 		},
 		{
+			"name": "rm_Items_Plus",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w194",
+			"description": "RENAME of rm_Filled_Attachments. Increased durability of workshop items, wind turbines, wall defenses. Adds attachments to workshop armor, and some tools/weapons. Adds station repair option to some items. Allows workshop power source to recharge via Charging Station. Pre-filled Workshop Canteens and Oxygen Tanks. Minor oxygen and canteen capacity increases.Some battery powered tool capacity increases.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Items_Plus_P.pak"
+			}
+		},
+		{
 			"name": "rm_IceBreaker",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -108,16 +118,6 @@
 			"description": "IceBreaker, aka Jotunfror, aka Hrimthurs, aka Giant Reindeer, is now Vulnerable. Good luck in slaying the deadly beast.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_IceBreaker_P.pak"
-			}
-		},
-		{
-			"name": "rm_Meta_Attachments",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w194",
-			"description": "All Workshop tools, weapons, and armor shall have Attachment slots.",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachments_P.pak"
 			}
 		},
 		{
@@ -212,6 +212,7 @@
 		}
 	]
 }
+
 
 
 
