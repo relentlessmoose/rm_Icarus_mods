@@ -179,9 +179,20 @@
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
 			}
+		},
+		{
+			"name": "rm_GH_Choices",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w194",
+			"description": "Remove Choices from Great Hunts campaigns, opening all missions per map.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
+			}
 		}
 	]
 }
+
 
 
 
