@@ -104,7 +104,7 @@
 			"name": "rm_IceBreaker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w191",
 			"description": "IceBreaker, aka Jotunfror, aka Hrimthurs, aka Giant Reindeer, is now Vulnerable. Good luck in slaying the deadly beast.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_IceBreaker_P.pak"
@@ -212,6 +212,7 @@
 		}
 	]
 }
+
 
 
 
