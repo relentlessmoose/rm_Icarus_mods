@@ -15,7 +15,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Attempts to restore the third Exotics Extractor socket.",
+			"description": "Edits: D_DeployableSetup.  Attempts to restore the third Exotics Extractor socket.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_3rd_Socket_P.pak"
 			}
@@ -25,7 +25,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Take the Bear Cub's aggressive behavior - all carnivores will now mimic this. Included in rm_Angry_Moose.",
+			"description": "Edits: D_AISetup, D_GOAPSetup.  Take the Bear Cub's aggressive behavior - all carnivores will now mimic this. Included in rm_Angry_Moose.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
 			}
@@ -35,7 +35,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
+			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
 			}
@@ -45,7 +45,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Minor tweaks to a few buffs.  Bundles size improvements.",
+			"description": "Edits: D_Consumable.  Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
 			}
@@ -55,7 +55,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Adds bulk recipes for many processor recipes and more.",
+			"description": "Edits: D_ProcessorRecipes.  Adds bulk recipes for many processor recipes and more.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
 			}
@@ -65,7 +65,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Adds 10% for Caveworms to drop a low amount of Exotics.  This is NOT meant to be any sort of farm.",
+			"description": "Edits: D_ItemRewards.  Adds 10% for Caveworms to drop a low amount of Exotics.  This is NOT meant to be any sort of farm.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Caveworm_Exotics_P.pak"
 			}
@@ -75,7 +75,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Numerous additional Drop Zones.",
+			"description": "Edits: D_DropGroups.  Numerous additional Drop Zones.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
 			}
@@ -85,7 +85,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Remove Choices from Great Hunts campaigns, opening all missions per map.",
+			"description": "Edits: D_GreatHunts.  Remove Choices from Great Hunts campaigns, opening all missions per map.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
 			}
@@ -95,9 +95,19 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "RENAME of rm_Filled_Attachments. Increased durability of workshop items, wind turbines, wall defenses. Adds attachments to workshop armor, and some tools/weapons. Adds station repair option to some items. Allows workshop power source to recharge via Charging Station. Pre-filled Workshop Canteens and Oxygen Tanks. Minor oxygen and canteen capacity increases.Some battery powered tool capacity increases.",
+			"description": "RENAME of rm_Filled_Attachments. Edits: D_ItemStatic, D_Durable, D_Fillable.   Increased durability of workshop items, wind turbines, wall defenses. Adds attachments to workshop armor, and some tools/weapons. Adds station repair option to some items. Allows workshop power source to recharge via Charging Station. Pre-filled Workshop Canteens and Oxygen Tanks. Minor oxygen and canteen capacity increases.Some battery powered tool capacity increases.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Items_Plus_P.pak"
+			}
+		},
+		{
+			"name": "rm_IceBreaker",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w191",
+			"description": "Edits: AIGrowth.  IceBreaker, aka Jotunfror, aka Hrimthurs, aka Giant Reindeer, is now Vulnerable. Good luck in slaying the deadly beast.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_IceBreaker_P.pak"
 			}
 		},
 		{
@@ -105,7 +115,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Displays actual level of player. ZERO additional Character talent points.",
+			"description": "Edits: D_CharacterGrowth.  Displays actual level of player. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Character_P.pak"
 			}
@@ -115,19 +125,9 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Displays actual level of player and tames/mounts. Increases maximum level of Mounts to 100, and Pets to 50. ZERO additional Character talent points.",
+			"description": "Edits: D_CharacterGrowth.  Displays actual level of player and tames/mounts. Increases maximum level of Mounts to 100, and Pets to 50. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Tames_P.pak"
-			}
-		},
-		{
-			"name": "rm_IceBreaker",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w191",
-			"description": "IceBreaker, aka Jotunfror, aka Hrimthurs, aka Giant Reindeer, is now Vulnerable. Good luck in slaying the deadly beast.",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_IceBreaker_P.pak"
 			}
 		},
 		{
@@ -135,7 +135,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "All Workshop tools, weapons, and armor shall have Attachment slots.",
+			"description": "Edits: D_ItemStatic.  All Workshop tools, weapons, and armor shall have Attachment slots.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachments_P.pak"
 			}
@@ -145,7 +145,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Wind Turbine output: 2250.   Solar Panel output: 8000.",
+			"description": "Edits: D_Energy.  Wind Turbine output: 2250.   Solar Panel output: 8000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
 			}
@@ -155,7 +155,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
+			"description": "Edits: D_ModifierStates, D_StatAfflictions.  Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
 			}
@@ -165,7 +165,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
+			"description": "Edits: D_Talents, D_VoxelSetupData.  Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
 			}
@@ -175,7 +175,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Eliminates the Null Sector's ability to hinder communications.",
+			"description": "Edits: D_Biomes.  Eliminates the Null Sector's ability to hinder communications.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Null_Comms_P.pak"
 			}
@@ -185,7 +185,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w191",
-			"description": "Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
+			"description": "Edits: D_ProspectForecast, D_WeatherEvents, D_WeatherPools.  Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
 			}
@@ -195,7 +195,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Many improved stack sizes over vanilla.",
+			"description": "Edits: D_Itemable.  Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
 			}
@@ -205,7 +205,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: `<Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>`",
+			"description": "Edits: D_PlayerTrackers.  For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: `<Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>`",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
 			}
@@ -215,13 +215,14 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w194",
-			"description": "Olympus: 4 Black Wolf, and 4 Sandworm. Styx: 4 Giant Scorpion, 4 Black Wolf, and 4 Sandworm. Prometheus: 2 Hammerhead, 1 Lava Hunter.",
+			"description": "Edits: D_Terrains.  Olympus: 4 Black Wolf, and 4 Sandworm. Styx: 4 Giant Scorpion, 4 Black Wolf, and 4 Sandworm. Prometheus: 2 Hammerhead, 1 Lava Hunter.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_World_Bosses_P.pak"
 			}
 		}
 	]
 }
+
 
 
 
