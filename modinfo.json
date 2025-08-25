@@ -101,6 +101,26 @@
 			}
 		},
 		{
+			"name": "rm_Levels_Character",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w194",
+			"description": "Displays actual level of player. ZERO additional Character talent points.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Character_P.pak"
+			}
+		},
+		{
+			"name": "rm_Levels_Tames",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w194",
+			"description": "Displays actual level of player and tames/mounts. Increases maximum level of Mounts to 100, and Pets to 50. ZERO additional Character talent points.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Tames_P.pak"
+			}
+		},
+		{
 			"name": "rm_IceBreaker",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -191,16 +211,6 @@
 			}
 		},
 		{
-			"name": "rm_True_Level",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w194",
-			"description": "Displays all characters true levels beyond 60.  Displays all pet/tame true levels.  Displays true NPC creature levels (if applicable).  Increases tame max level to 100, allowing all talent points.  DOES NOT add Prospector talent points.",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_True_Level_P.pak"
-			}
-		},
-		{
 			"name": "rm_World_Bosses",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -212,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
