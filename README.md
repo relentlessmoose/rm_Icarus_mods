@@ -2,7 +2,8 @@ Above, you have mod name and which file(s) it edits displayed.
 Be aware of overlapping edited files, despite it being minimal.  
 *Check back often for frequent updates, not just weekly.*
 
-My mods are installed as .pak files inside ...\SteamLibrary\steamapps\common\Icarus\Icarus\Content\Paks\mods
+My mods are installed as .pak files inside ...\SteamLibrary\steamapps\common\Icarus\Icarus\Content\Paks\mods  
+Also can be installed via IMM, with extra steps.
 
 A mix of QoL mods and difficulty increasing mods.  
 Spawn additions, weather additions, stack sizes, attachment slots, modifiers, trackers, and more.  
