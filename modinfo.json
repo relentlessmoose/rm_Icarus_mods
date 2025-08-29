@@ -24,7 +24,7 @@
 			"name": "rm_Aggression",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_AISetup, D_GOAPSetup.  Take the Bear Cub's aggressive behavior - all carnivores will now mimic this. Included in rm_Angry_Moose.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
@@ -44,7 +44,7 @@
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_Consumable.  Minor tweaks to a few buffs.  Bundles size improvements.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Buffs_and_Bundles_P.pak"
@@ -54,7 +54,7 @@
 			"name": "rm_Bulk_Recipes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_ProcessorRecipes.  Adds bulk recipes for many processor recipes and more.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
@@ -74,7 +74,7 @@
 			"name": "rm_Desired_Drop",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_DropGroups.  Numerous additional Drop Zones.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
@@ -84,7 +84,7 @@
 			"name": "rm_GH_Choices",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_GreatHunts.  Permits completion of all Great Hunts missions per map.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
@@ -114,7 +114,7 @@
 			"name": "rm_Levels_Character",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_CharacterGrowth.  Displays actual level of player. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Character_P.pak"
@@ -124,7 +124,7 @@
 			"name": "rm_Levels_Tames",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_CharacterGrowth.  Displays actual level of player and tames/mounts. Increases maximum level of Mounts to 100, and Pets to 50. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Tames_P.pak"
@@ -144,7 +144,7 @@
 			"name": "rm_Moar_Power",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_Energy.  Wind Turbine output: 2250.   Solar Panel output: 8000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
@@ -154,7 +154,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_ModifierStates, D_StatAfflictions.  Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
@@ -164,7 +164,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_Talents, D_VoxelSetupData.  Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
@@ -204,7 +204,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_PlayerTrackers.  For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: `<Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>`",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
@@ -214,7 +214,7 @@
 			"name": "rm_World_Bosses",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_Terrains.  Olympus: 4 Black Wolf, and 4 Sandworm. Styx: 4 Giant Scorpion, 4 Black Wolf, and 4 Sandworm. Prometheus: 2 Hammerhead, 1 Lava Hunter.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_World_Bosses_P.pak"
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
