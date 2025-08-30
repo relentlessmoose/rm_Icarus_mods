@@ -134,7 +134,7 @@
 			"name": "rm_Meta_Attachments",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w195",
 			"description": "Edits: D_ItemStatic.  All Workshop tools, weapons, and armor shall have Attachment slots.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachments_P.pak"
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
