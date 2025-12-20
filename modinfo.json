@@ -5,7 +5,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w211",
-			"description": "Contains almost all of my mods into one mod. And some unlreleased edits, or things I'm working on. Infused Chaos not included. GREAT HUNTS! NEW Enhanced Organic Residue Cleaner to cost more, process faster. NEW Improved creature aggressiveness and infighting.",
+			"description": "Spiders! Additional Spawn Zones for Spiders. Contains almost all of my mods into one mod. And some unlreleased edits, or things I'm working on. Infused Chaos not included. Previous Update: Week 195 NEW Enhanced Organic Residue Cleaner to cost more, process faster. NEW Improved creature aggressiveness and infighting.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
 			}
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
