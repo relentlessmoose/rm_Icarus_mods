@@ -14,7 +14,7 @@
 			"name": "rm_3rd_Socket",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w211",
 			"description": "Edits: D_DeployableSetup.  Attempts to restore the third Exotics Extractor socket.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_3rd_Socket_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w195",
+			"compatibility": "w211",
 			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
