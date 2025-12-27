@@ -25,7 +25,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w212",
-			"description": "Edits: D_AISetup, D_GOAPSetup.  Take the Bear Cub's aggressive behavior - all carnivores will now mimic this. Included in rm_Angry_Moose.",
+			"description": "Edits: D_AISetup, D_GOAPSetup.  Take the Bear Cub's aggressive behavior - most carnivores will now mimic this. Included in rm_Angry_Moose.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
 			}
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
