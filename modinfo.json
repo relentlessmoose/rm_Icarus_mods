@@ -145,7 +145,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w212",
-			"description": "Edits: D_Energy.  Wind Turbine output: 2250.   Solar Panel output: 8000.",
+			"description": "Edits: D_Energy.  Wind Turbine output: 2250.  Solar Panel output: 8000.  Flat Solar Panel: 10000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
 			}
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
