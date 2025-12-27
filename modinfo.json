@@ -14,7 +14,7 @@
 			"name": "rm_3rd_Socket",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w211",
+			"compatibility": "w212",
 			"description": "Edits: D_DeployableSetup.  Attempts to restore the third Exotics Extractor socket.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_3rd_Socket_P.pak"
@@ -24,7 +24,7 @@
 			"name": "rm_Aggression",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w211",
+			"compatibility": "w212",
 			"description": "Edits: D_AISetup, D_GOAPSetup.  Take the Bear Cub's aggressive behavior - all carnivores will now mimic this. Included in rm_Angry_Moose.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w211",
+			"compatibility": "w212",
 			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Extremely low chance for some workshop animals in limited areas on OLY & STYX. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
@@ -54,7 +54,7 @@
 			"name": "rm_Bulk_Recipes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w211",
+			"compatibility": "w212",
 			"description": "Edits: D_ProcessorRecipes.  Adds bulk recipes for many processor recipes and more.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
@@ -84,7 +84,7 @@
 			"name": "rm_GH_Choices",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w211",
+			"compatibility": "w212",
 			"description": "Edits: D_GreatHunts.  Permits completion of all Great Hunts missions per map.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
@@ -154,7 +154,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w195",
+			"compatibility": "w212",
 			"description": "Edits: D_ModifierStates, D_StatAfflictions.  Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
@@ -164,7 +164,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w211",
+			"compatibility": "w212",
 			"description": "Edits: D_Talents, D_VoxelSetupData.  Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
@@ -194,7 +194,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w194",
+			"compatibility": "w212",
 			"description": "Edits: D_Itemable.  Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
