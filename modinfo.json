@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w212",
+			"compatibility": "w213",
 			"description": "Mammoth Mounts! Spiders! Additional Spawn Zones fro Spiders. Outpost spawn improvements. All-in-one of most of my mods. And some otherwise unreleased edits, or things I'm working on.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -222,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
