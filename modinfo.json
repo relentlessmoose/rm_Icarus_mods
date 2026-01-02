@@ -91,6 +91,16 @@
 			}
 		},
 		{
+			"name": "rm_Inventory",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w213",
+			"description": "Edits: D_InventoryInfo.  Workshop inventory increased from 200 to 300. All dropships increased from 15 to 20. Overflow bags increased from 150 to 200. Player graves increased from 70 to 100. Most fuel slots increased from 1 to 2. Many processor and container inventory expansions.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Inventory_P.pak"
+			}
+		},
+		{
 			"name": "rm_Items_Plus",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -222,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
