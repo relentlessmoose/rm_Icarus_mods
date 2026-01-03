@@ -191,16 +191,6 @@
 			}
 		},
 		{
-			"name": "rm_Shifting_Winds",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w191",
-			"description": "Edits: D_ProspectForecast, D_WeatherEvents, D_WeatherPools.  Prometheus weather variety expanded.  Mixed in weather events from other biomes.",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Shifting_Winds_P.pak"
-			}
-		},
-		{
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -232,6 +222,7 @@
 		}
 	]
 }
+
 
 
 
