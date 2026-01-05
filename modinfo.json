@@ -91,6 +91,16 @@
 			}
 		},
 		{
+			"name": "rm_rm_Half_EXP",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w213",
+			"description": "Edits: Modifiers.json.  Prospectors shall receive half (50%) experience points from all sources.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Half_EXP_P.pak"
+			}
+		},
+		{
 			"name": "rm_Inventory",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -222,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
