@@ -91,7 +91,7 @@
 			}
 		},
 		{
-			"name": "rm_rm_Half_EXP",
+			"name": "rm_Half_EXP",
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w213",
@@ -232,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
