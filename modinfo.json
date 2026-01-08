@@ -95,7 +95,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w213",
-			"description": "Edits: Modifiers.json.  Prospectors shall receive half (50%) experience points from all sources.",
+			"description": "Edits: D_Modifiers, D_CharacterStartingStats.  Prospectors shall receive half (50%) experience points from all sources.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Half_EXP_P.pak"
 			}
@@ -125,7 +125,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w191",
-			"description": "Edits: AIGrowth.  IceBreaker, aka Jotunfror, aka Hrimthurs, aka Giant Reindeer, is now Vulnerable. Good luck in slaying the deadly beast.",
+			"description": "Edits: D_AIGrowth.  IceBreaker, aka Jotunfror, aka Hrimthurs, aka Giant Reindeer, is now Vulnerable. Good luck in slaying the deadly beast.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_IceBreaker_P.pak"
 			}
@@ -232,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
