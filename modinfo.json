@@ -174,7 +174,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w213",
+			"compatibility": "w214",
 			"description": "Edits: D_ModifierStates, D_StatAfflictions.  Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
@@ -232,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
