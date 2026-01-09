@@ -84,7 +84,7 @@
 			"name": "rm_GH_Choices",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w213",
+			"compatibility": "w214",
 			"description": "Edits: D_GreatHunts.  Permits completion of all Great Hunts missions per map.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
@@ -184,7 +184,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w213",
+			"compatibility": "w214",
 			"description": "Edits: D_Talents, D_VoxelSetupData.  Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
@@ -204,7 +204,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w213",
+			"compatibility": "w214",
 			"description": "Edits: D_Itemable.  Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
@@ -232,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
