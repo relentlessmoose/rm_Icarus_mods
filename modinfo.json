@@ -54,8 +54,8 @@
 			"name": "rm_Bulk_Recipes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w213",
-			"description": "Edits: D_ProcessorRecipes.  Adds bulk recipes for many processor recipes and more.",
+			"compatibility": "w214",
+			"description": "Edits: D_ProcessorRecipes. New 12.7mm ammo recipe! Adds bulk recipes for many processor recipes and more.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Bulk_Recipes_P.pak"
 			}
@@ -232,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
