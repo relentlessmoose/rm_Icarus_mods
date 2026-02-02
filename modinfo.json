@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w215",
+			"compatibility": "w217",
 			"description": "New Explorers Backpack! New recipe for 12.7mm in game! Mammoth Mounts! More Mammoths in more places. Spiders! Additional Spawn Zones for Spiders. Outpost spawns completely revised. Outposts have full EXP. This is how I play the game personally.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -215,7 +215,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w214",
-			"description": "Edits: D_PlayerTrackers.  For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file itself and scroll to the bottom: `<Drive:>:\Users\<user>\AppData\Local\Icarus\Saved\PlayerData\<17 digits>`",
+			"description": "Edits: D_PlayerTrackers.  For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
 			}
@@ -232,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
