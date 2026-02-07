@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w217",
+			"compatibility": "w218",
 			"description": "New Explorers Backpack! New recipe for 12.7mm in game! Mammoth Mounts! More Mammoths in more places. Spiders! Additional Spawn Zones for Spiders. Outpost spawns completely revised. Outposts have full EXP. This is how I play the game personally.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -232,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
