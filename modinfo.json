@@ -41,6 +41,16 @@
 			}
 		},
 		{
+			"name": "rm_Always_Night",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w218",
+			"description": "Edits: D_TimeOfDay.json.  Nighttime all the time!",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Always_Night_P.pak"
+			}
+		},
+		{
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -242,6 +252,7 @@
 		}
 	]
 }
+
 
 
 
