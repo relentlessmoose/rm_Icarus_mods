@@ -5,7 +5,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w220",
-			"description": "Mendel Update - Genetics!. Old Composter recipe alongside new. Crafted lights changes. More stack improvements. Recipe for 12.7mm in game! Mammoth Mounts! More Mammoths in more places. Spiders! Additional Spawn Zones for Spiders. Outpost spawns completely revised. Outposts have full EXP. This is how I play the game personally.",
+			"description": "Mendel Update - Genetics! Old Composter recipe alongside new. Crafted lights changes. More stack improvements. Recipe for 12.7mm in game! Mammoth Mounts! More Mammoths in more places. Spiders! Additional Spawn Zones for Spiders. Outpost spawns completely revised. Outposts have full EXP. This is how I play the game personally.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
 			}
@@ -252,6 +252,7 @@
 		}
 	]
 }
+
 
 
 
