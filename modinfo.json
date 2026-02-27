@@ -41,26 +41,6 @@
 			}
 		},
 		{
-			"name": "rm_Always_Night",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w218",
-			"description": "Edits: D_TimeOfDay.json.  Nighttime all the time!",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Always_Night_P.pak"
-			}
-		},
-		{
-			"name": "rm_Angry_Moose",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w218",
-			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  NEW! Mammoths and Spider spawns added in many more locations on all Maps! All Outpost spawns revised!  Mixes some creatures from all maps into all maps, in limited and/or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers included. Added more Exotic Infused creatures to Prometheus. Spawn balances, and MORE balances. Now with +25% more creatures.",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Angry_Moose_P.pak"
-			}
-		},
-		{
 			"name": "rm_Buffs_and_Bundles",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -252,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
