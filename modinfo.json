@@ -31,6 +31,16 @@
 			}
 		},
 		{
+			"name": "rm_Angry_Moose",
+			"author": "relentlessmoose",
+			"version": "1.0",
+			"compatibility": "w221",
+			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Please do not use if you do not own Styx, and New Horizons DLC! Mixes some creatures from all maps into all maps, in limited or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers are some mixed in. Added more Exotic Infused creatures to Prometheus. Now with +25% more creatures. Spawn balances, and MORE balances. Improved creature aggressiveness and infighting.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
+			}
+		},
+		{
 			"name": "rm_Always_Day",
 			"author": "relentlessmoose",
 			"version": "1.0",
@@ -232,6 +242,7 @@
 		}
 	]
 }
+
 
 
 
