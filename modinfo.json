@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w222",
 			"description": "Mendel Update - Genetics fixes. Old Composter recipe alongside new. Crafted lights changes. More stack improvements. Recipe for 12.7mm in game! Mammoth Mounts! More Mammoths in more places. Spiders! Additional Spawn Zones for Spiders. Outpost spawns completely revised. Outposts have full EXP. This is how I play the game personally.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -38,16 +38,6 @@
 			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Please do not use if you do not own Styx, and New Horizons DLC! Mixes some creatures from all maps into all maps, in limited or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers are some mixed in. Added more Exotic Infused creatures to Prometheus. Now with +25% more creatures. Spawn balances, and MORE balances. Improved creature aggressiveness and infighting.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
-			}
-		},
-		{
-			"name": "rm_Always_Day",
-			"author": "relentlessmoose",
-			"version": "1.0",
-			"compatibility": "w218",
-			"description": "Edits: D_TimeOfDay.json.  Daytime all the time!",
-			"files": {
-				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Always_Day_P.pak"
 			}
 		},
 		{
@@ -194,7 +184,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w222",
 			"description": "Edits: D_Talents, D_VoxelSetupData.  Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
@@ -214,7 +204,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w222",
 			"description": "Edits: D_Itemable.  Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
@@ -224,7 +214,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w222",
 			"description": "Edits: D_PlayerTrackers.  For those who want to know how many Dracs they've killed and beyond.  50+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
@@ -242,6 +232,7 @@
 		}
 	]
 }
+
 
 
 
