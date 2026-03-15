@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w222",
+			"compatibility": "w223",
 			"description": "Dangerous Horizons! Old Composter recipe alongside new. Crafted lights changes. More stack improvements. Recipe for 12.7mm in game! Mammoth Mounts! More Mammoths in more places. Spiders! Additional Spawn Zones for Spiders. Outpost spawns completely revised. Outposts have full EXP. This is how I play the game personally.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -24,7 +24,7 @@
 			"name": "rm_Aggression",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_AISetup, D_GOAPSetup.  More creatures hate everything.  Take the Bear Cub's aggressive behavior - most carnivores will now mimic this. Included in rm_Angry_Moose.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Please do not use if you do not own Styx, and New Horizons DLC! Mixes some creatures from all maps into all maps, in limited or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers are some mixed in. Added more Exotic Infused creatures to Prometheus. Now with +25% more creatures. Spawn balances, and MORE balances. Improved creature aggressiveness and infighting.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -64,7 +64,7 @@
 			"name": "rm_Caveworm_Exotics",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_ItemRewards.  Adds 10% for Caveworms to drop a low amount of Exotics.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Caveworm_Exotics_P.pak"
@@ -74,7 +74,7 @@
 			"name": "rm_Desired_Drop",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_DropGroups.  Numerous additional Drop Zones.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
@@ -84,7 +84,7 @@
 			"name": "rm_Equal_Skins",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w222",
+			"compatibility": "w223",
 			"description": "Edits: D_Mounts.  Only uncommon, rare, and/or legendary skins possible.  No basic skins.  Equal odds for each.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Skins_P.pak"
@@ -94,7 +94,7 @@
 			"name": "rm_GH_Choices",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_GreatHunts.  Permits completion of all Great Hunts missions per map.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
@@ -114,7 +114,7 @@
 			"name": "rm_Inventory",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_InventoryInfo.  Workshop inventory increased from 200 to 300. All dropships increased from 15 to 20. Overflow bags increased from 150 to 200. Player graves increased from 70 to 100. Most fuel slots increased from 1 to 2. Many processor and container inventory expansions.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Inventory_P.pak"
@@ -174,7 +174,7 @@
 			"name": "rm_Moar_Power",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_Energy.  Wind Turbine output: 2250.  Solar Panel output: 8000.  Flat Solar Panel: 10000.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Moar_Power_P.pak"
@@ -184,7 +184,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w214",
+			"compatibility": "w223",
 			"description": "Edits: D_ModifierStates, D_StatAfflictions.  Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
@@ -194,7 +194,7 @@
 			"name": "rm_No_Ore_Left_Behind",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w222",
+			"compatibility": "w223",
 			"description": "Edits: D_Talents, D_VoxelSetupData.  Changes the Waste Not talent to give additional ore instead of stone.  Provides a chance for Exotics when mining Platinum & Titanium.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_No_Ore_Left_Behind_P.pak"
@@ -204,7 +204,7 @@
 			"name": "rm_Null_Comms",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_Biomes.  Eliminates the Null Sector's ability to hinder communications.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Null_Comms_P.pak"
@@ -214,7 +214,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w222",
+			"compatibility": "w223",
 			"description": "Edits: D_Itemable.  Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
@@ -224,7 +224,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w222",
+			"compatibility": "w223",
 			"description": "Edits: D_PlayerTrackers.  Added all new creatures and some items.  For those who want to know how many Dracs they've killed and beyond.  75+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
@@ -234,7 +234,7 @@
 			"name": "rm_World_Bosses",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w223",
 			"description": "Edits: D_Terrains.  Olympus: 4 Black Wolf, and 4 Sandworm. Styx: 4 Giant Scorpion, 4 Black Wolf, and 4 Sandworm. Prometheus: 2 Hammerhead, 1 Lava Hunter.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_World_Bosses_P.pak"
