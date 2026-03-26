@@ -5,7 +5,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w224",
-			"description": "Dangerous Horizons! Old Composter recipe alongside new. Crafted lights changes. More stack improvements. Recipe for 12.7mm in game! Mammoth Mounts! More Mammoths in more places. Spiders! Additional Spawn Zones for Spiders. Outpost spawns completely revised. Outposts have full EXP. This is how I play the game personally.",
+			"description": "Dangerous Horizons! Drone and vesper behavior tweaks. Outposts have full EXP. Does not include files from: rm_Half_EXP, rm_IceBreaker.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
 			}
