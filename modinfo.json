@@ -25,7 +25,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w224",
-			"description": "Edits: D_AISetup, D_GOAPSetup.  More creatures hate everything.  Take the Bear Cub's aggressive behavior - most carnivores will now mimic this. Included in rm_Angry_Moose.",
+			"description": "Edits: D_AISetup, D_GOAPSetup.  Included in rm_Angry_Moose.  More creatures hate everything.  Take the Bear Cub's aggressive behavior - most carnivores will now mimic this.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
 			}
@@ -84,7 +84,7 @@
 			"name": "rm_Equal_Skins",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w223",
+			"compatibility": "w224",
 			"description": "Edits: D_Mounts.  Only uncommon, rare, and/or legendary skins possible.  No basic skins.  Equal odds for each.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Skins_P.pak"
