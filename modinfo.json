@@ -81,10 +81,20 @@
 			}
 		},
 		{
+			"name": "rm_Equal_Bloodlines",
+			"author": "relentlessmoose",
+			"version": "All",
+			"compatibility": "w226",
+			"description": "Edits: D_GeneticLineages.  All bloodlines are equally weighted.",
+			"files": {
+				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Bloodlines_P.pak"
+			}
+		},
+		{
 			"name": "rm_Equal_Phenotypes",
 			"author": "relentlessmoose",
 			"version": "All",
-			"compatibility": "w224",
+			"compatibility": "w226",
 			"description": "Edits: D_Mounts.  Only uncommon, rare, and/or legendary skins possible.  No basic skins.  Equal odds for each.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Skins_P.pak"
