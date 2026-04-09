@@ -83,7 +83,7 @@
 		{
 			"name": "rm_Equal_Phenotypes",
 			"author": "relentlessmoose",
-			"version": "1.0",
+			"version": "All",
 			"compatibility": "w224",
 			"description": "Edits: D_Mounts.  Only uncommon, rare, and/or legendary skins possible.  No basic skins.  Equal odds for each.",
 			"files": {
