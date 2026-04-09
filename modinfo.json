@@ -204,7 +204,7 @@
 			"name": "rm_Modifiers",
 			"author": "relentlessmoose",
 			"version": "All",
-			"compatibility": "w223",
+			"compatibility": "w226",
 			"description": "Edits: D_ModifierStates, D_StatAfflictions.  Increased aura radius, including talents, pet talents, and dehumidifiers.  Team Modules effect user.  Exotic Debuff tweaked.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Modifiers_P.pak"
@@ -234,7 +234,7 @@
 			"name": "rm_Stack_Sizes",
 			"author": "relentlessmoose",
 			"version": "All",
-			"compatibility": "w225",
+			"compatibility": "w226",
 			"description": "Edits: D_Itemable.  Many improved stack sizes over vanilla.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Stack_Sizes_P.pak"
