@@ -7,7 +7,7 @@ Also can be installed via IMM, with extra steps.
 All files are JSON, no custom assets.
 
 A mix of QoL mods and difficulty increasing mods.  
-Spawn additions, weather additions, stack sizes, attachment slots, modifiers, trackers, and more.  
+Spawn additions, stack sizes, attachment slots, modifiers, trackers, and more.  
 While balance is preferred, it may not always be present.  
 Always looking for new ideas.
 
