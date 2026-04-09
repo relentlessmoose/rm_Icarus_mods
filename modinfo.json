@@ -124,7 +124,7 @@
 			"name": "rm_Inventory",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w223",
+			"compatibility": "w226",
 			"description": "Edits: D_InventoryInfo.  Workshop inventory increased from 200 to 300. All dropships increased from 15 to 20. Overflow bags increased from 150 to 200. Player graves increased from 70 to 100. Most fuel slots increased from 1 to 2. Many processor and container inventory expansions.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Inventory_P.pak"
@@ -134,7 +134,7 @@
 			"name": "rm_Items_Plus",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w221",
+			"compatibility": "w226",
 			"description": "RENAME of rm_Filled_Attachments. Edits: D_ItemStatic, D_Durable, D_Fillable.   Increased durability of workshop items, wind turbines, wall defenses. Adds attachments to workshop armor, and some tools/weapons. Adds station repair option to some items. Allows workshop power source to recharge via Charging Station. Pre-filled Workshop Canteens and Oxygen Tanks. Minor oxygen and canteen capacity increases.Some battery powered tool capacity increases.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Items_Plus_P.pak"
@@ -154,7 +154,7 @@
 			"name": "rm_Levels_Character",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w225",
+			"compatibility": "w226",
 			"description": "Edits: D_CharacterGrowth.  Displays actual level of player. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Character_P.pak"
@@ -164,7 +164,7 @@
 			"name": "rm_Levels_Tames",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w225",
+			"compatibility": "w226",
 			"description": "Edits: D_CharacterGrowth.  Displays actual level of player and tames/mounts. Increases (doubles) maximum level of Mounts to 100, and Pets to 50. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Tames_P.pak"
@@ -174,7 +174,7 @@
 			"name": "rm_Meta_Attachments",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w225",
+			"compatibility": "w226",
 			"description": "Edits: D_ItemStatic.  Most Workshop tools, weapons, and armor now have Attachment slots.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Meta_Attachments_P.pak"
@@ -234,8 +234,8 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w224",
-			"description": "Edits: D_PlayerTrackers.  Added all new creatures and some items.  For those who want to know how many Dracs they've killed and beyond.  75+ previously untracked items included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file.",
+			"compatibility": "w226",
+			"description": "Edits: D_PlayerTrackers.  Added all new creatures and some items.  For those who want to know how many Dracs they've killed and beyond.  100+ previously untracked items, things, or actions included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
 			}
