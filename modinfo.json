@@ -84,7 +84,7 @@
 			"name": "rm_Equal_Bloodlines",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w227",
 			"description": "Edits: D_GeneticLineages.  All bloodlines are equally weighted.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Bloodlines_P.pak"
@@ -94,7 +94,7 @@
 			"name": "rm_Equal_Phenotypes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w227",
 			"description": "Edits: D_Mounts.  Only uncommon, rare, and/or legendary skins possible.  No basic skins.  Equal odds for each.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Skins_P.pak"
@@ -114,7 +114,7 @@
 			"name": "rm_Graphics_Tier_Fix",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w227",
 			"description": "Edits: D_GraphicsTierDescription, D_GraphicsTierDescriptionMods.  VRAM rows added, defining all ranges for AMD & Nvidia GPUs.  9000 series AMD and 5000 series NVidia GPUs added.  Corrected RX7600XT line, allowing D_GraphicsTierDescriptionMods to do more work.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Graphics_Tier_Fix_P.pak"
