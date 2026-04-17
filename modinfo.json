@@ -4,7 +4,7 @@
 			"name": "rm_Total_Moose_Experience",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w227",
+			"compatibility": "w228",
 			"description": "Dangerous Horizons! Drone and vesper behavior tweaks. Outposts have full EXP. Does not include files from: rm_Half_EXP, rm_IceBreaker.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Total_Moose_Experience_P.pak"
@@ -114,8 +114,8 @@
 			"name": "rm_Graphics_Tier_Fix",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w227",
-			"description": "Edits: D_GraphicsTierDescription, D_GraphicsTierDescriptionMods.  VRAM rows added, defining all ranges for AMD & Nvidia GPUs.  9000 series AMD and 5000 series NVidia GPUs added.  Corrected RX7600XT line, allowing D_GraphicsTierDescriptionMods to do more work.",
+			"compatibility": "w228",
+			"description": "Edits: D_GraphicsTierDescription, D_GraphicsTierDescriptionMods.  Fixed an oversight potentially preventing NVidia cards from full mod benefit.  VRAM rows added, defining all ranges for AMD & Nvidia GPUs.  9000 series AMD and 5000 series NVidia GPUs added.  Corrected RX7600XT line, allowing D_GraphicsTierDescriptionMods to do more work.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Graphics_Tier_Fix_P.pak"
 			}
