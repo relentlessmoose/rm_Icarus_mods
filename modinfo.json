@@ -115,7 +115,7 @@
 			"author": "relentlessmoose",
 			"version": "1.0",
 			"compatibility": "w228",
-			"description": "Edits: D_GraphicsTierDescription, D_GraphicsTierDescriptionMods.  Fixed an oversight potentially preventing NVidia cards from full mod benefit.  VRAM rows added, defining all ranges for AMD & Nvidia GPUs.  9000 series AMD and 5000 series NVidia GPUs added.  Corrected RX7600XT line, allowing D_GraphicsTierDescriptionMods to do more work.",
+			"description": "Edits: D_GraphicsTierDescription, D_GraphicsTierDescriptionMods.  Fixed an oversight potentially preventing Nvidia cards from full mod benefit.  VRAM rows added, defining all ranges for AMD & Nvidia GPUs.  9000 series AMD and 5000 series NVidia GPUs added.  Corrected RX7600XT line, allowing D_GraphicsTierDescriptionMods to do more work.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Graphics_Tier_Fix_P.pak"
 			}
