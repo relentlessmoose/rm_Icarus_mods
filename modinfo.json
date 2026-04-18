@@ -224,7 +224,7 @@
 			"name": "rm_Null_Comms",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w228",
 			"description": "Edits: D_Biomes.  Eliminates the Null Sector's ability to hinder communications.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Null_Comms_P.pak"
@@ -244,7 +244,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w228",
 			"description": "Edits: D_PlayerTrackers.  Added all new creatures and some items.  For those who want to know how many Dracs they've killed and beyond.  100+ previously untracked items, things, or actions included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
@@ -254,7 +254,7 @@
 			"name": "rm_World_Bosses",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w228",
 			"description": "Edits: D_Terrains.  Olympus: 4 Black Wolf, and 4 Sandworm. Styx: 4 Giant Scorpion, 4 Black Wolf, and 4 Sandworm. Prometheus: 2 Hammerhead, 1 Lava Hunter.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_World_Bosses_P.pak"
