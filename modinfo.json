@@ -24,7 +24,7 @@
 			"name": "rm_Aggression",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w227",
+			"compatibility": "w228",
 			"description": "Edits: D_AISetup, D_GOAPSetup.  Included in rm_Angry_Moose.  More creatures hate everything.  Take the Bear Cub's aggressive behavior - most carnivores will now mimic this.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -34,7 +34,7 @@
 			"name": "rm_Angry_Moose",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w227",
+			"compatibility": "w228",
 			"description": "Edits: D_AISetup, D_AISpawnRules, D_AISpawnZones, D_AutonomousSpawns, D_EpicCreatures.  Please do not use if you do not own Styx, and New Horizons DLC! Mixes some creatures from all maps into all maps, in limited or balanced weights. Cubs, Crocodiles, Jaguars, Cougars, Tuskers, Dracs, Shaggy Zebra, and Strikers are some mixed in. Added more Exotic Infused creatures to Prometheus. Now with +25% more creatures. Spawn balances, and MORE balances. Improved creature aggressiveness and infighting.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Aggression_P.pak"
@@ -84,7 +84,7 @@
 			"name": "rm_Equal_Bloodlines",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w227",
+			"compatibility": "w228",
 			"description": "Edits: D_GeneticLineages.  All bloodlines are equally weighted.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Bloodlines_P.pak"
@@ -94,7 +94,7 @@
 			"name": "rm_Equal_Phenotypes",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w227",
+			"compatibility": "w228",
 			"description": "Edits: D_Mounts.  Only uncommon, rare, and/or legendary skins possible.  No basic skins.  Equal odds for each.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Equal_Skins_P.pak"
@@ -104,7 +104,7 @@
 			"name": "rm_GH_Choices",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w228",
 			"description": "Edits: D_GreatHunts.  Permits completion of all Great Hunts missions per map.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_GH_Choices_P.pak"
