@@ -74,7 +74,7 @@
 			"name": "rm_Desired_Drop",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w228",
+			"compatibility": "w230",
 			"description": "Edits: D_DropGroups.  Numerous additional Drop Zones.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Desired_Drop_P.pak"
@@ -114,7 +114,7 @@
 			"name": "rm_Graphics_Tier_Fix",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w228",
+			"compatibility": "w230",
 			"description": "Edits: D_GraphicsTierDescription, D_GraphicsTierDescriptionMods.  Fixed an oversight potentially preventing Nvidia cards from full mod benefit.  VRAM rows added, defining all ranges for AMD & Nvidia GPUs.  9000 series AMD and 5000 series NVidia GPUs added.  Corrected RX7600XT line, allowing D_GraphicsTierDescriptionMods to do more work.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Graphics_Tier_Fix_P.pak"
@@ -164,7 +164,7 @@
 			"name": "rm_Levels_Character",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w230",
 			"description": "Edits: D_CharacterGrowth.  Displays actual level of player. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Character_P.pak"
@@ -174,7 +174,7 @@
 			"name": "rm_Levels_Tames",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w226",
+			"compatibility": "w230",
 			"description": "Edits: D_CharacterGrowth.  Displays actual level of player and tames/mounts. Increases (doubles) maximum level of Mounts to 100, and Pets to 50. ZERO additional Character talent points.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Levels_Tames_P.pak"
@@ -224,7 +224,7 @@
 			"name": "rm_Null_Comms",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w228",
+			"compatibility": "w230",
 			"description": "Edits: D_Biomes.  Eliminates the Null Sector's ability to hinder communications.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Null_Comms_P.pak"
@@ -244,7 +244,7 @@
 			"name": "rm_Tracker",
 			"author": "relentlessmoose",
 			"version": "1.0",
-			"compatibility": "w228",
+			"compatibility": "w230",
 			"description": "Edits: D_PlayerTrackers.  Added all new creatures and some items.  For those who want to know how many Dracs they've killed and beyond.  100+ previously untracked items, things, or actions included.  Tracks kills for nearly every creature in the game.  Tracks all buildables crafted, and all decorations crafted.  Half of these values are only visible if you open your Accolades.json file.",
 			"files": {
 				"pak": "https://github.com/relentlessmoose/rm_Icarus_mods/raw/refs/heads/main/rm_Tracker_P.pak"
